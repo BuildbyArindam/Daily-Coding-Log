@@ -95,9 +95,10 @@ Each solution file includes a header comment with the problem link, date solved,
  
 ## 📅 Daily Log
  
-| Date | Platform | Problem | Difficulty | Topic | Link |
-|---|---|---|---|---|---|
-| 2026-08-13 | LeetCode | Two Sum | Easy | Arrays / HashMap | [Solution](./LeetCode/Arrays/two-sum.py) |
+| Date | Platform | Problem | Difficulty | Topics | Problem Link | Solution Link |
+|------|----------|---------|-----------|--------|------|--------|
+| 15-08-2026 | Codeforces | Alex and a TV Show (1097F) | *2500 | Bitmasks, Combinatorics, Number Theory (Möbius) | [Problem](https://codeforces.com/contest/1097/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/1097F_Alex_and_a_TV_Show.py) |
+
  
 <!-- Add new rows above this line as you solve problems -->
  
