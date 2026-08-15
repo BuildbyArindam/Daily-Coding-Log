@@ -59,7 +59,7 @@ Each solution file includes a header comment with the problem link, date solved,
 | Platform | Problems Solved |
 |---|---|
 | LeetCode | 1,599 / 4,019 |
-| Codeforces | 204 |
+| Codeforces | 217 |
 | CodeChef | 142 |
 | GeeksforGeeks | 1,315 |
 | HackerRank | 400 |
@@ -97,7 +97,19 @@ Each solution file includes a header comment with the problem link, date solved,
  
 | Date | Platform | Problem | Difficulty | Topics | Problem Link | Solution Link |
 |------|----------|---------|-----------|--------|------|--------|
-| 15-08-2026 | Codeforces | Alex and a TV Show (1097F) | *2500 | Bitmasks, Combinatorics, Number Theory (Möbius) | [Problem](https://codeforces.com/contest/1097/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/1097F_Alex_and_a_TV_Show.py) |
+| 2026-08-15 | Codeforces | Alex and a TV Show (1097F) | *2500 | Bitmasks, Combinatorics, Number Theory (Möbius) | [Problem](https://codeforces.com/contest/1097/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/1097F_Alex_and_a_TV_Show.py) |
+| 2026-08-15 | Codeforces | A Colourful Prospect (934E) | *2700      | Geometry, Graphs   | [Problem](https://codeforces.com/contest/934/problem/E)  | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934E_A_Colourful_Prospect.py) |
+| 2026-08-15 | Codeforces | A Compatible Pair (934A)         | *1400       | brute force, games     | [Problem](https://codeforces.com/contest/934/problem/A) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934A-A-Compatible-Pair.py) |
+| 2026-08-15 | Codeforces | A Prosperous Lot (934B) | *1200 | Constructive Algorithms, Implementation | [Problem](https://codeforces.com/contest/934/problem/B) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934B_A_Prosperous_Lot.py) |
+| 2026-08-15 | Codeforces | A Twisty Movement (934C)       | *1800   | brute force, dp, implementation | [Problem](https://codeforces.com/contest/934/problem/C) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934C_A_Twisty_Movement.py) |
+| 2026-08-15 | Codeforces | A Determined Cleanup (934D)       | *2000   | Math (negative-base repr.) | [Problem](https://codeforces.com/contest/934/problem/D) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934D_A_Determined_Cleanup.py) |
+| 2026-08-15 | Codeforces | Maximize! (939E)       | *1800   | Binary Search, Greedy, Ternary Search, Two Pointers | [Problem](https://codeforces.com/contest/939/problem/E) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939E_Maximize.py) |
+| 2026-08-15 | Codeforces | Love Triangle (939A) | *800 | Graphs (Permutation Cycles) | [Problem](https://codeforces.com/contest/939/problem/A) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939A_Love_Triangle.py) |
+| 2026-08-15 | Codeforces | Hamster Farm (939B) | *1000 | 	Implementation | [Problem](https://codeforces.com/contest/939/problem/B) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939B_Hamster_Farm.py) |
+| 2026-08-15 | Codeforces| Convenient For Everybody (939C) | *1600       | Binary Search, Two Pointers | [Problem](https://codeforces.com/contest/939/problem/C) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939C_Convenient_For_Everybody..py) |
+| 2026-08-15 | Codeforces| Love Rescue (939D) | *1600       | DSU, Graphs, Greedy, Strings | [Problem](https://codeforces.com/contest/939/problem/D) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939D_Love_Rescue.py) |
+| 2026-08-15 | Codeforces| Cutlet (939F) | *2400       | DP, Data Structures | [Problem](https://codeforces.com/contest/939/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939F_Cutlet.py) |
+| 2026-08-15 | Codeforces| Flow Control (990F) | *2400       | dfs-and-similar, dp, greedy, trees | [Problem](https://codeforces.com/contest/990/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/990F_Flow_Control.py) |
 
  
 <!-- Add new rows above this line as you solve problems -->
