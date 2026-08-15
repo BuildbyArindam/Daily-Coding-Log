@@ -40,7 +40,7 @@ Space         : O(V) big integers of up to V bits each  ~ O(V^2 / w) words,
                 V = 7000 here, comfortably within CF's memory limit
 """
 
-# ---------------------------------Solutionn-------------------------------------
+# --------------------------------- Solution -------------------------------------
 
 
 import sys
