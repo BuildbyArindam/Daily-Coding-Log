@@ -1,6 +1,6 @@
 """
 Problem: The Curator's Recall
-Platform: GeeksforGeeks (via Unstop)
+Platform: Unstop
 Link: https://unstop.com/code/practice/659241
 Difficulty: Hard
 Date Solved: 2026-09-04
