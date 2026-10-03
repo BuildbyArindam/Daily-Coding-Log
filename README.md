@@ -1,129 +1,198 @@
-<h1 align="center">📚 DSA Practice Log</h1>
-<p align="center">Daily coding practice across LeetCode, GeeksforGeeks, HackerRank, HackerEarth, CodeChef, Codeforces, Unstop, Coding Ninjas & freeCodeCamp.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-0-blue?style=for-the-badge" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Current%20Streak-0%20days-orange?style=for-the-badge" alt="Streak"/>
-</p>
----
- 
-## 🔗 My Coding Profiles
- 
-| Platform | Profile |
-|---|---|
-| LeetCode | [0Arindam0_](https://leetcode.com/u/0Arindam0_/) |
-| GeeksforGeeks | [subirouynn](https://www.geeksforgeeks.org/user/subirouynn/) |
-| HackerRank | [mahapatraarinda1](http://www.hackerrank.com/profile/mahapatraarinda1) |
-| HackerEarth | [mahapatraarindam4](https://www.hackerearth.com/@mahapatraarindam4/) |
-| CodeChef | [amahapatra2004](https://www.codechef.com/users/amahapatra2004) |
-| Codeforces | [mahapatraarindam4](https://codeforces.com/profile/mahapatraarindam4) |
-| Unstop | [arindmah7062](https://unstop.com/u/arindmah7062) |
-| Coding Ninjas (Code360) | [Profile](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) |
-| freeCodeCamp | [Profile](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) |
- 
-### 🔴 Live Stats (auto-updating, no manual editing needed)
- 
-<p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/?username=0Arindam0_" alt="LeetCode Stats"/>
-</p>
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahapatraarindam4" alt="Codeforces Stats"/>
-</p>
-<p align="left">
-  <img src="https://cp-logo.vercel.app/codechef/amahapatra2004?logo=true" alt="CodeChef Badge"/>
-</p>
----
- 
-## 🗂️ Repo Structure
- 
-```
-DSA-Practice/
-├── LeetCode/
-├── GFG/
-├── HackerRank/
-├── HackerEarth/
-├── CodeChef/
-├── Codeforces/
-├── Unstop/
-├── CodingNinjas/
-└── freeCodeCamp/
-```
- 
-Each solution file includes a header comment with the problem link, date solved, approach, and time/space complexity.
- 
----
- 
-## 📊 Progress by Platform
- 
-*(Live badges above show real-time data ☝️ — table below is the full manually-tracked breakdown)*
- 
-| Platform | Problems Solved |
-|---|---|
-| LeetCode | 1,599 / 4,019 |
-| Codeforces | 217 |
-| CodeChef | 142 |
-| GeeksforGeeks | 1,315 |
-| HackerRank | 400 |
-| HackerEarth | 154 / 3,253 |
-| Unstop | 668 / 1,177 |
-| Coding Ninjas | 111 |
-| freeCodeCamp | 300 |
-| **Total** | **4,833** |
- 
----
- 
-## 🧩 Progress by Topic
- 
-| Topic | Count |
-|---|---|
-| Arrays | 0 |
-| Strings | 0 |
-| Hashing | 0 |
-| Two Pointers | 0 |
-| Sliding Window | 0 |
-| Linked List | 0 |
-| Stacks & Queues | 0 |
-| Trees | 0 |
-| Graphs | 0 |
-| Dynamic Programming | 0 |
-| Greedy | 0 |
-| Backtracking | 0 |
-| Binary Search | 0 |
-| Heaps | 0 |
-| Bit Manipulation | 0 |
- 
----
- 
-## 📅 Daily Log
- 
-| Date | Platform | Problem | Difficulty | Topics | Problem Link | Solution Link |
-|------|----------|---------|-----------|--------|------|--------|
-| 2026-08-15 | Codeforces | Alex and a TV Show (1097F) | *2500 | Bitmasks, Combinatorics, Number Theory (Möbius) | [Problem](https://codeforces.com/contest/1097/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/1097F_Alex_and_a_TV_Show.py) |
-| 2026-08-15 | Codeforces | A Colourful Prospect (934E) | *2700      | Geometry, Graphs   | [Problem](https://codeforces.com/contest/934/problem/E)  | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934E_A_Colourful_Prospect.py) |
-| 2026-08-15 | Codeforces | A Compatible Pair (934A)         | *1400       | brute force, games     | [Problem](https://codeforces.com/contest/934/problem/A) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934A-A-Compatible-Pair.py) |
-| 2026-08-15 | Codeforces | A Prosperous Lot (934B) | *1200 | Constructive Algorithms, Implementation | [Problem](https://codeforces.com/contest/934/problem/B) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934B_A_Prosperous_Lot.py) |
-| 2026-08-15 | Codeforces | A Twisty Movement (934C)       | *1800   | brute force, dp, implementation | [Problem](https://codeforces.com/contest/934/problem/C) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934C_A_Twisty_Movement.py) |
-| 2026-08-15 | Codeforces | A Determined Cleanup (934D)       | *2000   | Math (negative-base repr.) | [Problem](https://codeforces.com/contest/934/problem/D) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934D_A_Determined_Cleanup.py) |
-| 2026-08-15 | Codeforces | Maximize! (939E)       | *1800   | Binary Search, Greedy, Ternary Search, Two Pointers | [Problem](https://codeforces.com/contest/939/problem/E) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939E_Maximize.py) |
-| 2026-08-15 | Codeforces | Love Triangle (939A) | *800 | Graphs (Permutation Cycles) | [Problem](https://codeforces.com/contest/939/problem/A) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939A_Love_Triangle.py) |
-| 2026-08-15 | Codeforces | Hamster Farm (939B) | *1000 | 	Implementation | [Problem](https://codeforces.com/contest/939/problem/B) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939B_Hamster_Farm.py) |
-| 2026-08-15 | Codeforces| Convenient For Everybody (939C) | *1600       | Binary Search, Two Pointers | [Problem](https://codeforces.com/contest/939/problem/C) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939C_Convenient_For_Everybody..py) |
-| 2026-08-15 | Codeforces| Love Rescue (939D) | *1600       | DSU, Graphs, Greedy, Strings | [Problem](https://codeforces.com/contest/939/problem/D) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939D_Love_Rescue.py) |
-| 2026-08-15 | Codeforces| Cutlet (939F) | *2400       | DP, Data Structures | [Problem](https://codeforces.com/contest/939/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/939F_Cutlet.py) |
-| 2026-08-15 | Codeforces| Flow Control (990F) | *2400       | dfs-and-similar, dp, greedy, trees | [Problem](https://codeforces.com/contest/990/problem/F) | [Solution](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/990F_Flow_Control.py) |
+<div align="center">
 
- 
-<!-- Add new rows above this line as you solve problems -->
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C243+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+
+
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1243-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current%20Streak-49%20days-f78166?style=for-the-badge&logo=fireship&logoColor=white)
+![Active](https://img.shields.io/badge/Active%20Days-49-3fb950?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-150-f85149?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-1143-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-24-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
+
 ---
- 
+
+## ⚡ At a Glance
+
+| 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1,243** | **608** | **427** | **150** | **49** | **49 days** |
+
+> 📆 Logging window: **15 Aug 2026 → 02 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
+
+---
+
+## 🔗 Coding Profiles
+
+<div align="center">
+
+| Platform | Handle | Link |
+|:--|:--|:--:|
+| 🟠 LeetCode | `0Arindam0_` | [Visit](https://leetcode.com/u/0Arindam0_/) |
+| 🟢 GeeksforGeeks | `subirouynn` | [Visit](https://www.geeksforgeeks.org/user/subirouynn/) |
+| 🔵 Codeforces | `mahapatraarindam4` | [Visit](https://codeforces.com/profile/mahapatraarindam4) |
+| 🟤 CodeChef | `amahapatra2004` | [Visit](https://www.codechef.com/users/amahapatra2004) |
+| 🟣 HackerEarth | `mahapatraarindam4` | [Visit](https://www.hackerearth.com/@mahapatraarindam4/) |
+| 🟡 Unstop | `arindmah7062` | [Visit](https://unstop.com/u/arindmah7062) |
+| 🧡 Coding Ninjas (Code360) | Profile | [Visit](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) |
+| ⚪ freeCodeCamp | Profile | [Visit](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) |
+| 🟩 HackerRank | `mahapatraarinda1` | [Visit](http://www.hackerrank.com/profile/mahapatraarinda1) |
+
+<img src="https://leetcode-stats-six.vercel.app/?username=0Arindam0_&theme=dark" height="170"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahapatraarindam4&theme=dark" height="170"/>
+<img src="https://cp-logo.vercel.app/codechef/amahapatra2004?logo=true"/>
+
+</div>
+
+---
+
+## 📂 Repository Structure
+
+```text
+Daily-Coding-Log/
+└── DSA-Practice/
+    ├── CodeChef/        # 339 solutions
+    ├── HackerEarth/     # 289 solutions
+    ├── FreeCodeCamp/    # 184 solutions
+    ├── Code360/         # 179 solutions
+    ├── Codeforces/      # 108 solutions
+    ├── GeeksforGeeks/   # 49 solutions
+    ├── LeetCode/        # 48 solutions
+    └── Unstop/          # 47 solutions
+```
+
+---
+
+## 📊 Progress by Platform
+
+> **In repo** = solution files uploaded here (counted from the files). **Platform total** = problems solved on the site itself (your earlier manual figures, kept for reference; please re-verify them).
+
+| Platform | In repo | Share | Platform total (manual) | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
+|:--|--:|:--|--:|--:|--:|--:|--:|
+| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **339** | `███░░░░░░░░░` 27% | 142 | 171 | 106 | 33 | 29 |
+| [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **289** | `███░░░░░░░░░` 23% | 154 | 187 | 78 | 12 | 12 |
+| [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 15% | 300 | 116 | 60 | 2 | 6 |
+| [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **179** | `██░░░░░░░░░░` 14% | 111 | 86 | 61 | 32 | 0 |
+| [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 9% | 217 | 19 | 50 | 35 | 4 |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **49** | `░░░░░░░░░░░░` 4% | 1,315 | 10 | 27 | 10 | 2 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **48** | `░░░░░░░░░░░░` 4% | 1,599 | 14 | 20 | 11 | 3 |
+| [Unstop](https://unstop.com/u/arindmah7062) | **47** | `░░░░░░░░░░░░` 4% | 668 | 5 | 25 | 15 | 2 |
+| **Total** | **1,243** | | | **608** | **427** | **150** | **58** |
+
+_HackerRank (400 solved on the site) has no folder in this repo yet._
+
+### 🎯 Difficulty Split
+
+```mermaid
+pie showData title Difficulty distribution (all platforms)
+    "Easy" : 608
+    "Medium" : 427
+    "Hard" : 150
+    "Unrated" : 58
+```
+
+> **How difficulty is normalised:** Easy / Cakewalk / Beginner → Easy · Easy-Medium → Medium · Medium-Hard → Hard · Codeforces ≤1200 Easy, 1300–1900 Medium, 2000+ Hard · CodeChef rating <1200 Easy, 1200–1799 Medium, 1800+ Hard · files with no difficulty label → Unrated.
+
+---
+
+## 🧩 Progress by Topic
+
+> A solution can carry several topics, so the counts add up to more than the total.
+
+| Topic | Solutions | Distribution |
+|:--|--:|:--|
+| Implementation & Simulation | **474** | `████████████████████████` |
+| Math & Number Theory | **316** | `████████████████░░░░░░░░` |
+| Arrays & Prefix Sums | **307** | `████████████████░░░░░░░░` |
+| Sorting & Searching | **202** | `██████████░░░░░░░░░░░░░░` |
+| Hashing & Maps | **180** | `█████████░░░░░░░░░░░░░░░` |
+| Strings | **171** | `█████████░░░░░░░░░░░░░░░` |
+| Greedy | **149** | `████████░░░░░░░░░░░░░░░░` |
+| Trees | **136** | `███████░░░░░░░░░░░░░░░░░` |
+| Stacks, Queues & Heaps | **119** | `██████░░░░░░░░░░░░░░░░░░` |
+| Graphs | **111** | `██████░░░░░░░░░░░░░░░░░░` |
+| Dynamic Programming | **86** | `████░░░░░░░░░░░░░░░░░░░░` |
+| Two Pointers & Sliding Window | **81** | `████░░░░░░░░░░░░░░░░░░░░` |
+| Recursion & Backtracking | **68** | `███░░░░░░░░░░░░░░░░░░░░░` |
+| Design / OOP / SQL | **51** | `███░░░░░░░░░░░░░░░░░░░░░` |
+| Bit Manipulation | **49** | `██░░░░░░░░░░░░░░░░░░░░░░` |
+| Linked Lists | **23** | `█░░░░░░░░░░░░░░░░░░░░░░░` |
+
+---
+
+## 🏆 Codeforces Rating Ladder
+
+| Rating band | Solved | |
+|:--|--:|:--|
+| ≤ 1200 | **19** | `███████████████░░░░░` |
+| 1300 – 1600 | **25** | `████████████████████` |
+| 1700 – 1900 | **25** | `████████████████████` |
+| 2000 – 2300 | **20** | `████████████████░░░░` |
+| 2400+ | **15** | `████████████░░░░░░░░` |
+
+### 💎 Hall of Fame (hardest solved)
+
+| Rating | Problem | Solution |
+|:--:|:--|:--:|
+| ⭐ **2800** | DravDe Saves The World | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/28E_DravDe_Saves_The_World.py) |
+| ⭐ **2700** | BerPaint | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/44F_BerPaint.py) |
+| ⭐ **2700** | A Colourful Prospect | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/934E_A_Colourful_Prospect.py) |
+| ⭐ **2600** | Trial for Chief | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/37E_Trial_for_Chief.py) |
+| ⭐ **2600** | Testing | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/39K_Testing.py) |
+| ⭐ **2600** | Interesting Sequence | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/40D_Interesting_Sequence.py) |
+| ⭐ **2500** | Alex and a TV Show | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/1097F_Alex_and_a_TV_Show.py) |
+| ⭐ **2500** | Tram | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Codeforces/39I_Tram.py) |
+
+---
+
+## 📅 Recent Activity (latest solves)
+
+| Date | Platform | Problem | Difficulty | Solution |
+|:--|:--|:--|:--:|:--:|
+| 2026-10-02 | Code360 | Time To Burn Tree | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Time_To_Burn_Tree.py) |
+| 2026-10-02 | Unstop | The Momentum Ledger | ⚪ Unrated | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/The_Momentum_Ledger.py) |
+| 2026-10-02 | CodeChef | TRANCST Transformation Cost | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/TRANCST_Transformation_Cost.py) |
+| 2026-10-02 | CodeChef | THEATRE The Theatre Problem | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/THEATRE_The_Theatre_Problem.py) |
+| 2026-10-02 | Code360 | Symmetric Tree | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Symmetric_Tree.py) |
+| 2026-10-02 | Code360 | Sum Tree | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Sum_Tree.py) |
+| 2026-10-02 | HackerEarth | Sub array Problem | ⚪ Unrated | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Sub_array_Problem.py) |
+| 2026-10-02 | Code360 | Special Binary Tree | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Special_Binary_Tree.py) |
+| 2026-10-02 | Code360 | Right View | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Right_View.py) |
+| 2026-10-02 | Code360 | Reverse Level Order Traversal | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Reverse_Level_Order_Traversal.py) |
+| 2026-10-02 | Code360 | Replace Node With Depth | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Replace_Node_With_Depth.py) |
+| 2026-10-02 | HackerEarth | Picu Bank | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Picu_Bank.py) |
+| 2026-10-02 | Code360 | Maximum Path Sum Between Two Leaves | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Maximum_Path_Sum_Between_Two_Leaves.py) |
+| 2026-10-02 | GeeksforGeeks | Lexicographically Smallest Rotation | ⚪ Unrated | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Lexicographically_Smallest_Rotation.py) |
+| 2026-10-02 | Code360 | Left View Of Binary Tree | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Left_View_Of_Binary_Tree.py) |
+
+---
+
 ## 🎯 Goals
- 
-- [ ] Solve at least 1 problem daily
-- [ ] Cover all core DSA topics at least once
-- [ ] Reach 100 problems solved
-- [ ] Reach 300 problems solved
+
+- [x] Reach 100 problems solved
+- [x] Reach 300 problems solved
+- [x] Solve problems on 8+ platforms
+- [x] Solve Codeforces problems rated 2400+
+- [ ] Solve at least 1 problem every day (current streak: **49** days)
+- [ ] Add more CodeChef Div-1 and HackerEarth Hard problems
 - [ ] Complete Blind 75 / NeetCode 150
+- [ ] Reach 1,500 solutions in this repo
+
 ---
- 
-<p align="center"><i>Consistency over intensity — one problem at a time. 🚀</i></p>
- 
+
+<div align="center">
+
+*Consistency over intensity — one problem at a time.* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
