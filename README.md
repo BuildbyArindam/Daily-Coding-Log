@@ -4,10 +4,9 @@
 
 <a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C243+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-
 ![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1243-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current%20Streak-49%20days-f78166?style=for-the-badge&logo=fireship&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-49%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-49-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-150-f85149?style=for-the-badge)
 
@@ -43,13 +42,12 @@
 | 🟤 CodeChef | `amahapatra2004` | [Visit](https://www.codechef.com/users/amahapatra2004) |
 | 🟣 HackerEarth | `mahapatraarindam4` | [Visit](https://www.hackerearth.com/@mahapatraarindam4/) |
 | 🟡 Unstop | `arindmah7062` | [Visit](https://unstop.com/u/arindmah7062) |
-| 🧡 Coding Ninjas (Code360) | Profile | [Visit](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) |
-| ⚪ freeCodeCamp | Profile | [Visit](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) |
+| 🧡 Coding Ninjas (Code360) | `Profile` | [Visit](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) |
+| ⚪ freeCodeCamp | `Profile` | [Visit](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) |
 | 🟩 HackerRank | `mahapatraarinda1` | [Visit](http://www.hackerrank.com/profile/mahapatraarinda1) |
 
 <img src="https://leetcode-stats-six.vercel.app/?username=0Arindam0_&theme=dark" height="170"/>
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahapatraarindam4&theme=dark" height="170"/>
-<img src="https://cp-logo.vercel.app/codechef/amahapatra2004?logo=true"/>
 
 </div>
 
@@ -74,9 +72,9 @@ Daily-Coding-Log/
 
 ## 📊 Progress by Platform
 
-> **In repo** = solution files uploaded here (counted from the files). **Platform total** = problems solved on the site itself (your earlier manual figures, kept for reference; please re-verify them).
+> **In repo** = solution files uploaded here (counted automatically). **Platform total** = problems solved on the site itself (manual figures).
 
-| Platform | In repo | Share | Platform total (manual) | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
+| Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **339** | `███░░░░░░░░░` 27% | 142 | 171 | 106 | 33 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **289** | `███░░░░░░░░░` 23% | 154 | 187 | 78 | 12 | 12 |
@@ -178,20 +176,20 @@ pie showData title Difficulty distribution (all platforms)
 
 ## 🎯 Goals
 
-- [x] Reach 100 problems solved
-- [x] Reach 300 problems solved
+- [x] Reach 100 solutions in this repo
+- [x] Reach 300 solutions in this repo
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
-- [ ] Solve at least 1 problem every day (current streak: **49** days)
-- [ ] Add more CodeChef Div-1 and HackerEarth Hard problems
-- [ ] Complete Blind 75 / NeetCode 150
-- [ ] Reach 1,500 solutions in this repo
+- [ ] Keep a 100-day streak (current: **49** days)
+- [ ] Reach 1,500 solutions in this repo (**1,243** so far)
 
 ---
 
 <div align="center">
 
 *Consistency over intensity — one problem at a time.* 🚀
+
+<sub>Last auto-updated: 03 Oct 2026 by <code>scripts/update_readme.py</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
