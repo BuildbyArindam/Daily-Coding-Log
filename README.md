@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C274+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C275+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1274-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1275-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-50%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-50-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-155-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1147-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1148-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-24-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,274** | **624** | **435** | **155** | **50** | **50 days** |
+| **1,275** | **624** | **436** | **155** | **50** | **50 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 03 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -61,7 +61,7 @@ Daily-Coding-Log/
     ├── CodeChef/        # 339 solutions
     ├── HackerEarth/     # 289 solutions
     ├── FreeCodeCamp/    # 184 solutions
-    ├── Code360/         # 182 solutions
+    ├── Code360/         # 183 solutions
     ├── Codeforces/      # 108 solutions
     ├── LeetCode/        # 76 solutions
     ├── GeeksforGeeks/   # 49 solutions
@@ -79,12 +79,12 @@ Daily-Coding-Log/
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **339** | `███░░░░░░░░░` 27% | 142 | 171 | 106 | 33 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **289** | `███░░░░░░░░░` 23% | 154 | 187 | 78 | 12 | 12 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 14% | 300 | 116 | 60 | 2 | 6 |
-| [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **182** | `██░░░░░░░░░░` 14% | 111 | 87 | 61 | 34 | 0 |
+| [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **183** | `██░░░░░░░░░░` 14% | 111 | 87 | 62 | 34 | 0 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 8% | 217 | 19 | 50 | 35 | 4 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **76** | `█░░░░░░░░░░░` 6% | 1,599 | 29 | 28 | 14 | 5 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **49** | `░░░░░░░░░░░░` 4% | 1,315 | 10 | 27 | 10 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **47** | `░░░░░░░░░░░░` 4% | 668 | 5 | 25 | 15 | 2 |
-| **Total** | **1,274** | | | **624** | **435** | **155** | **60** |
+| **Total** | **1,275** | | | **624** | **436** | **155** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -93,7 +93,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 624
-    "Medium" : 435
+    "Medium" : 436
     "Hard" : 155
     "Unrated" : 60
 ```
@@ -110,15 +110,15 @@ pie showData title Difficulty distribution (all platforms)
 |:--|--:|:--|
 | Implementation & Simulation | **476** | `████████████████████████` |
 | Arrays & Prefix Sums | **323** | `████████████████░░░░░░░░` |
-| Math & Number Theory | **319** | `████████████████░░░░░░░░` |
-| Sorting & Searching | **210** | `███████████░░░░░░░░░░░░░` |
+| Math & Number Theory | **320** | `████████████████░░░░░░░░` |
+| Sorting & Searching | **211** | `███████████░░░░░░░░░░░░░` |
 | Hashing & Maps | **191** | `██████████░░░░░░░░░░░░░░` |
 | Strings | **182** | `█████████░░░░░░░░░░░░░░░` |
 | Greedy | **151** | `████████░░░░░░░░░░░░░░░░` |
-| Trees | **142** | `███████░░░░░░░░░░░░░░░░░` |
+| Trees | **143** | `███████░░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **121** | `██████░░░░░░░░░░░░░░░░░░` |
 | Graphs | **113** | `██████░░░░░░░░░░░░░░░░░░` |
-| Dynamic Programming | **94** | `█████░░░░░░░░░░░░░░░░░░░` |
+| Dynamic Programming | **95** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **82** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **69** | `███░░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **51** | `███░░░░░░░░░░░░░░░░░░░░░` |
@@ -159,6 +159,7 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-03 | LeetCode | Widest Vertical Area Between Two Points Containing No Points | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.cpp) |
 | 2026-10-03 | LeetCode | Unique Number of Occurrences | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Unique_Number_of_Occurrences.cpp) |
 | 2026-10-03 | LeetCode | Transpose Matrix | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Transpose_Matrix.cpp) |
+| 2026-10-03 | Code360 | Total Number of BSTs using array elements as root node | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Total_Number_of_BSTs_using_array_elements_as_root_node.py) |
 | 2026-10-03 | LeetCode | String Compression II | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/String_Compression_II.cpp) |
 | 2026-10-03 | LeetCode | Redistribute Characters to Make All Strings Equal | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Redistribute_Characters_to_Make_All_Strings_Equal.cpp) |
 | 2026-10-03 | LeetCode | Path Crossing | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Path_Crossing.cpp) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-03 | LeetCode | Maximum Product Difference Between Two Pairs | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Product_Difference_Between_Two_Pairs.cpp) |
 | 2026-10-03 | LeetCode | Maximum Length of a Concatenated String with Unique Characters | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.cpp) |
 | 2026-10-03 | LeetCode | Largest Substring Between Two Equal Characters | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Largest_Substring_Between_Two_Equal_Characters.cpp) |
-| 2026-10-03 | LeetCode | Largest Odd Number in String | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Largest_Odd_Number_in_String.cpp) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **50** days)
-- [ ] Reach 1,500 solutions in this repo (**1,274** so far)
+- [ ] Reach 1,500 solutions in this repo (**1,275** so far)
 
 ---
 
