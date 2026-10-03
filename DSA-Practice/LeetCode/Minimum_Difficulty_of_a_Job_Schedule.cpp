@@ -1,5 +1,5 @@
 /*
- * Problem   : Minimum Difficulty of a Job Schedule (LeetCode 1335)
+ * Problem   : 1335. Minimum Difficulty of a Job Schedule (LeetCode)
  * Link      : https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
  * Difficulty: Hard
  * Topics    : Array, Dynamic Programming
