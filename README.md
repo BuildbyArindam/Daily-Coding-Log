@@ -2,19 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C258+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C259+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1258-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1259-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-50%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-50-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-150-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-151-f85149?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-1144-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-24-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-15-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-16-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,258** | **619** | **429** | **150** | **50** | **50 days** |
+| **1,259** | **619** | **429** | **151** | **50** | **50 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 03 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -63,7 +63,7 @@ Daily-Coding-Log/
     ├── FreeCodeCamp/    # 184 solutions
     ├── Code360/         # 179 solutions
     ├── Codeforces/      # 108 solutions
-    ├── LeetCode/        # 63 solutions
+    ├── LeetCode/        # 64 solutions
     ├── GeeksforGeeks/   # 49 solutions
     └── Unstop/          # 47 solutions
 ```
@@ -81,10 +81,10 @@ Daily-Coding-Log/
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 15% | 300 | 116 | 60 | 2 | 6 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **179** | `██░░░░░░░░░░` 14% | 111 | 86 | 61 | 32 | 0 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 9% | 217 | 19 | 50 | 35 | 4 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **63** | `█░░░░░░░░░░░` 5% | 1,599 | 25 | 22 | 11 | 5 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **64** | `█░░░░░░░░░░░` 5% | 1,599 | 25 | 22 | 12 | 5 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **49** | `░░░░░░░░░░░░` 4% | 1,315 | 10 | 27 | 10 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **47** | `░░░░░░░░░░░░` 4% | 668 | 5 | 25 | 15 | 2 |
-| **Total** | **1,258** | | | **619** | **429** | **150** | **60** |
+| **Total** | **1,259** | | | **619** | **429** | **151** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 619
     "Medium" : 429
-    "Hard" : 150
+    "Hard" : 151
     "Unrated" : 60
 ```
 
@@ -113,12 +113,12 @@ pie showData title Difficulty distribution (all platforms)
 | Arrays & Prefix Sums | **316** | `████████████████░░░░░░░░` |
 | Sorting & Searching | **204** | `██████████░░░░░░░░░░░░░░` |
 | Hashing & Maps | **184** | `█████████░░░░░░░░░░░░░░░` |
-| Strings | **176** | `█████████░░░░░░░░░░░░░░░` |
+| Strings | **177** | `█████████░░░░░░░░░░░░░░░` |
 | Greedy | **150** | `████████░░░░░░░░░░░░░░░░` |
 | Trees | **137** | `███████░░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **120** | `██████░░░░░░░░░░░░░░░░░░` |
 | Graphs | **111** | `██████░░░░░░░░░░░░░░░░░░` |
-| Dynamic Programming | **88** | `████░░░░░░░░░░░░░░░░░░░░` |
+| Dynamic Programming | **89** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **81** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **68** | `███░░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **51** | `███░░░░░░░░░░░░░░░░░░░░░` |
@@ -158,6 +158,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|:--|:--|:--:|:--:|
 | 2026-10-03 | LeetCode | Widest Vertical Area Between Two Points Containing No Points | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.cpp) |
 | 2026-10-03 | LeetCode | Transpose Matrix | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Transpose_Matrix.cpp) |
+| 2026-10-03 | LeetCode | String Compression II | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/String_Compression_II.cpp) |
 | 2026-10-03 | LeetCode | Path Crossing | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Path_Crossing.cpp) |
 | 2026-10-03 | LeetCode | Number of Dice Rolls With Target Sum | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Number_of_Dice_Rolls_With_Target_Sum.cpp) |
 | 2026-10-03 | LeetCode | Maximum Product Difference Between Two Pairs | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Product_Difference_Between_Two_Pairs.cpp) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-03 | LeetCode | Element Appearing More Than 25% In Sorted Array | ⚪ Unrated | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Element_Appearing_More_Than_25%25_In_Sorted_Array.cpp) |
 | 2026-10-03 | LeetCode | Destination City | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Destination_City.cpp) |
 | 2026-10-03 | LeetCode | Count of Matches in Tournament | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Count_of_Matches_in_Tournament.cpp) |
-| 2026-10-03 | LeetCode | Binary Tree Inorder Traversal | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Binary_Tree_Inorder_Traversal.cpp) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **50** days)
-- [ ] Reach 1,500 solutions in this repo (**1,258** so far)
+- [ ] Reach 1,500 solutions in this repo (**1,259** so far)
 
 ---
 
