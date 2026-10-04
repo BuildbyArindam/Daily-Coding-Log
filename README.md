@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C340+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C341+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1340-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1341-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-51%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-51-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-169-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1188-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1189-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-26-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-11-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,340** | **647** | **464** | **169** | **51** | **51 days** |
+| **1,341** | **648** | **464** | **169** | **51** | **51 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 04 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -64,7 +64,7 @@ Daily-Coding-Log/
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
     ├── LeetCode/        # 100 solutions
-    ├── GeeksforGeeks/   # 50 solutions
+    ├── GeeksforGeeks/   # 51 solutions
     └── Unstop/          # 49 solutions
 ```
 
@@ -82,9 +82,9 @@ Daily-Coding-Log/
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 14% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 8% | 217 | 19 | 50 | 35 | 4 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **100** | `█░░░░░░░░░░░` 7% | 1,599 | 38 | 41 | 16 | 5 |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **50** | `░░░░░░░░░░░░` 4% | 1,315 | 10 | 28 | 10 | 2 |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **51** | `░░░░░░░░░░░░` 4% | 1,315 | 11 | 28 | 10 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **49** | `░░░░░░░░░░░░` 4% | 668 | 5 | 27 | 15 | 2 |
-| **Total** | **1,340** | | | **647** | **464** | **169** | **60** |
+| **Total** | **1,341** | | | **648** | **464** | **169** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -92,7 +92,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
-    "Easy" : 647
+    "Easy" : 648
     "Medium" : 464
     "Hard" : 169
     "Unrated" : 60
@@ -109,7 +109,7 @@ pie showData title Difficulty distribution (all platforms)
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
 | Implementation & Simulation | **483** | `████████████████████████` |
-| Arrays & Prefix Sums | **339** | `█████████████████░░░░░░░` |
+| Arrays & Prefix Sums | **340** | `█████████████████░░░░░░░` |
 | Math & Number Theory | **333** | `█████████████████░░░░░░░` |
 | Sorting & Searching | **239** | `████████████░░░░░░░░░░░░` |
 | Hashing & Maps | **198** | `██████████░░░░░░░░░░░░░░` |
@@ -167,10 +167,10 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-04 | LeetCode | Regular Expression Matching | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Regular_Expression_Matching.cpp) |
 | 2026-10-04 | LeetCode | Recyclable and Low Fat Products | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Recyclable_and_Low_Fat_Products.sql) |
 | 2026-10-04 | LeetCode | Product Sales Analysis I | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Product_Sales_Analysis_I.sql) |
+| 2026-10-04 | GeeksforGeeks | Perimeter of Shapes in Binary Matrix | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Perimeter_of_Shapes_in_Binary_Matrix.py) |
 | 2026-10-04 | LeetCode | Maximum Number of Coins You Can Get | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Number_of_Coins_You_Can_Get.cpp) |
 | 2026-10-04 | LeetCode | Last Moment Before All Ants Fall Out of a Plank | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.cpp) |
 | 2026-10-04 | CodeChef | K1 Plant Location | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/K1_Plant_Location.py) |
-| 2026-10-04 | LeetCode | Invalid Tweets | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Invalid_Tweets.sql) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **51** days)
-- [ ] Reach 1,500 solutions in this repo (**1,340** so far)
+- [ ] Reach 1,500 solutions in this repo (**1,341** so far)
 
 ---
 
