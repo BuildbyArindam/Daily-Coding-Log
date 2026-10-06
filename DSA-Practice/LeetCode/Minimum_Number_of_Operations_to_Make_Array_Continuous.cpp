@@ -1,5 +1,5 @@
 /*
- * Problem   : 1751. Minimum Number of Operations to Make Array Continuous
+ * Problem   : 2009. Minimum Number of Operations to Make Array Continuous
  * Platform  : LeetCode 
  * Link      : https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
  * Date      : 07-Oct-2026
