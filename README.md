@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C389+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C390+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1389-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1390-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-53%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-53-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-176-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-177-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1220-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1221-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-26-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-20-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,389** | **660** | **493** | **176** | **53** | **53 days** |
+| **1,390** | **660** | **493** | **177** | **53** | **53 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 06 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -64,7 +64,7 @@ Daily-Coding-Log/
     ├── FreeCodeCamp/    # 184 solutions
     ├── LeetCode/        # 120 solutions
     ├── Codeforces/      # 108 solutions
-    ├── GeeksforGeeks/   # 52 solutions
+    ├── GeeksforGeeks/   # 53 solutions
     └── Unstop/          # 51 solutions
 ```
 
@@ -82,9 +82,9 @@ Daily-Coding-Log/
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 13% | 300 | 116 | 60 | 2 | 6 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **120** | `█░░░░░░░░░░░` 9% | 1,599 | 46 | 52 | 17 | 5 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 8% | 217 | 19 | 50 | 35 | 4 |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **52** | `░░░░░░░░░░░░` 4% | 1,315 | 11 | 29 | 10 | 2 |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **53** | `░░░░░░░░░░░░` 4% | 1,315 | 11 | 29 | 11 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **51** | `░░░░░░░░░░░░` 4% | 668 | 5 | 28 | 16 | 2 |
-| **Total** | **1,389** | | | **660** | **493** | **176** | **60** |
+| **Total** | **1,390** | | | **660** | **493** | **177** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 660
     "Medium" : 493
-    "Hard" : 176
+    "Hard" : 177
     "Unrated" : 60
 ```
 
@@ -111,14 +111,14 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **489** | `████████████████████████` |
 | Arrays & Prefix Sums | **351** | `█████████████████░░░░░░░` |
 | Math & Number Theory | **342** | `█████████████████░░░░░░░` |
-| Sorting & Searching | **255** | `█████████████░░░░░░░░░░░` |
+| Sorting & Searching | **256** | `█████████████░░░░░░░░░░░` |
 | Hashing & Maps | **200** | `██████████░░░░░░░░░░░░░░` |
 | Strings | **196** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **167** | `████████░░░░░░░░░░░░░░░░` |
 | Trees | **157** | `████████░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **129** | `██████░░░░░░░░░░░░░░░░░░` |
-| Graphs | **121** | `██████░░░░░░░░░░░░░░░░░░` |
-| Dynamic Programming | **104** | `█████░░░░░░░░░░░░░░░░░░░` |
+| Graphs | **122** | `██████░░░░░░░░░░░░░░░░░░` |
+| Dynamic Programming | **105** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **94** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **80** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **72** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -164,13 +164,13 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-06 | CodeChef | PHNCHRG Phone Charging | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/PHNCHRG_Phone_Charging.py) |
 | 2026-10-06 | HackerEarth | Mobile Selection | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Mobile_Selection.py) |
 | 2026-10-06 | HackerEarth | Magic Potion | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Magic_Potion.py) |
+| 2026-10-06 | GeeksforGeeks | Longest Increasing Path in Matrix | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Longest_Increasing_Path_in_Matrix.py) |
 | 2026-10-06 | CodeChef | IC26TM Team Formation Tactics | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26TM_Team_Formation_Tactics.py) |
 | 2026-10-06 | CodeChef | IC26SH Side Hustle | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26SH_Side_Hustle.py) |
 | 2026-10-06 | CodeChef | IC26MP Furious Farming | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26MP_Furious_Farming.py) |
 | 2026-10-06 | CodeChef | IC26MM Mountain Medians | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26MM_Mountain_Medians.py) |
 | 2026-10-06 | CodeChef | IC26LR Take the L | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26LR_Take_the_L.py) |
 | 2026-10-06 | CodeChef | IC26CS Cyclic Shift | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26CS_Cyclic_Shift.py) |
-| 2026-10-06 | CodeChef | IC26CB Curio Packing | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/IC26CB_Curio_Packing.py) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **53** days)
-- [ ] Reach 1,500 solutions in this repo (**1,389** so far)
+- [ ] Reach 1,500 solutions in this repo (**1,390** so far)
 
 ---
 
