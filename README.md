@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C414+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C415+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1414-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1415-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-54%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-54-3fb950?style=for-the-badge)
@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-20-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-70-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-71-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,414** | **663** | **503** | **188** | **54** | **54 days** |
+| **1,415** | **663** | **504** | **188** | **54** | **54 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 07 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -62,7 +62,7 @@ Daily-Coding-Log/
     ├── HackerEarth/     # 310 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
-    ├── LeetCode/        # 144 solutions
+    ├── LeetCode/        # 145 solutions
     ├── Codeforces/      # 108 solutions
     ├── GeeksforGeeks/   # 53 solutions
     └── Unstop/          # 51 solutions
@@ -80,11 +80,11 @@ Daily-Coding-Log/
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **310** | `███░░░░░░░░░` 22% | 154 | 199 | 87 | 12 | 12 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `██░░░░░░░░░░` 14% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `██░░░░░░░░░░` 13% | 300 | 116 | 60 | 2 | 6 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **144** | `█░░░░░░░░░░░` 10% | 1,599 | 49 | 62 | 28 | 5 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **145** | `█░░░░░░░░░░░` 10% | 1,599 | 49 | 63 | 28 | 5 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 8% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **53** | `░░░░░░░░░░░░` 4% | 1,315 | 11 | 29 | 11 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **51** | `░░░░░░░░░░░░` 4% | 668 | 5 | 28 | 16 | 2 |
-| **Total** | **1,414** | | | **663** | **503** | **188** | **60** |
+| **Total** | **1,415** | | | **663** | **504** | **188** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -93,7 +93,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 663
-    "Medium" : 503
+    "Medium" : 504
     "Hard" : 188
     "Unrated" : 60
 ```
@@ -111,10 +111,10 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **489** | `████████████████████████` |
 | Arrays & Prefix Sums | **365** | `██████████████████░░░░░░` |
 | Math & Number Theory | **346** | `█████████████████░░░░░░░` |
-| Sorting & Searching | **262** | `█████████████░░░░░░░░░░░` |
-| Hashing & Maps | **206** | `██████████░░░░░░░░░░░░░░` |
-| Strings | **197** | `██████████░░░░░░░░░░░░░░` |
-| Greedy | **169** | `████████░░░░░░░░░░░░░░░░` |
+| Sorting & Searching | **263** | `█████████████░░░░░░░░░░░` |
+| Hashing & Maps | **207** | `██████████░░░░░░░░░░░░░░` |
+| Strings | **198** | `██████████░░░░░░░░░░░░░░` |
+| Greedy | **170** | `████████░░░░░░░░░░░░░░░░` |
 | Trees | **162** | `████████░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **132** | `██████░░░░░░░░░░░░░░░░░░` |
 | Graphs | **125** | `██████░░░░░░░░░░░░░░░░░░` |
@@ -164,13 +164,13 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-07 | LeetCode | Number of Ways to Stay in the Same Place After Some Steps | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.java) |
 | 2026-10-07 | LeetCode | Number of Good Pairs | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Number_of_Good_Pairs.cpp) |
 | 2026-10-07 | LeetCode | Number of Flowers in Full Bloom | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Number_of_Flowers_in_Full_Bloom.cpp) |
+| 2026-10-07 | LeetCode | Minimum Deletions to Make Character Frequencies Unique | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Minimum_Deletions_to_Make_Character_Frequencies_Unique.cpp) |
 | 2026-10-07 | LeetCode | Maximum Score of a Good Subarray | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Score_of_a_Good_Subarray.cpp) |
 | 2026-10-07 | LeetCode | Majority Element II | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Majority_Element_II.cpp) |
 | 2026-10-07 | LeetCode | K-th Symbol in Grammar | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/K-th_Symbol_in_Grammar.cpp) |
 | 2026-10-07 | LeetCode | Group the People Given the Group Size They Belong To | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Group_the_People_Given_the_Group_Size_They_Belong_To.cpp) |
 | 2026-10-07 | LeetCode | Flatten Nested List Iterator | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Flatten_Nested_List_Iterator.cpp) |
 | 2026-10-07 | LeetCode | Find in Mountain Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Find_in_Mountain_Array.cpp) |
-| 2026-10-07 | LeetCode | Find The Original Array of Prefix Xor | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Find_The_Original_Array_of_Prefix_Xor.java) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **54** days)
-- [ ] Reach 1,500 solutions in this repo (**1,414** so far)
+- [ ] Reach 1,500 solutions in this repo (**1,415** so far)
 
 ---
 
