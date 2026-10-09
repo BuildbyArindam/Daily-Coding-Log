@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C496+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C497+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1496-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1497-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current%20Streak-55%20days-f78166?style=for-the-badge)
-![Active](https://img.shields.io/badge/Active%20Days-55-3fb950?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current%20Streak-56%20days-f78166?style=for-the-badge)
+![Active](https://img.shields.io/badge/Active%20Days-56-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-203-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1265-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1266-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,9 +24,9 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,496** | **682** | **551** | **203** | **55** | **55 days** |
+| **1,497** | **682** | **552** | **203** | **56** | **56 days** |
 
-> 📆 Logging window: **15 Aug 2026 → 08 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
+> 📆 Logging window: **15 Aug 2026 → 09 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
 ---
 
@@ -58,7 +58,7 @@
 ```text
 Daily-Coding-Log/
 └── DSA-Practice/
-    ├── CodeChef/        # 390 solutions
+    ├── CodeChef/        # 391 solutions
     ├── HackerEarth/     # 328 solutions
     ├── Code360/         # 193 solutions
     ├── LeetCode/        # 185 solutions
@@ -76,7 +76,7 @@ Daily-Coding-Log/
 
 | Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
-| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **390** | `███░░░░░░░░░` 26% | 142 | 177 | 130 | 54 | 29 |
+| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **391** | `███░░░░░░░░░` 26% | 142 | 177 | 131 | 54 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **328** | `███░░░░░░░░░` 22% | 154 | 199 | 105 | 12 | 12 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `██░░░░░░░░░░` 13% | 111 | 89 | 70 | 34 | 0 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **185** | `█░░░░░░░░░░░` 12% | 1,599 | 66 | 77 | 37 | 5 |
@@ -84,7 +84,7 @@ Daily-Coding-Log/
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 7% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **55** | `░░░░░░░░░░░░` 4% | 1,315 | 11 | 30 | 12 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **53** | `░░░░░░░░░░░░` 4% | 668 | 5 | 29 | 17 | 2 |
-| **Total** | **1,496** | | | **682** | **551** | **203** | **60** |
+| **Total** | **1,497** | | | **682** | **552** | **203** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -93,7 +93,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 682
-    "Medium" : 551
+    "Medium" : 552
     "Hard" : 203
     "Unrated" : 60
 ```
@@ -111,10 +111,10 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **497** | `████████████████████████` |
 | Arrays & Prefix Sums | **379** | `██████████████████░░░░░░` |
 | Math & Number Theory | **357** | `█████████████████░░░░░░░` |
-| Sorting & Searching | **288** | `██████████████░░░░░░░░░░` |
+| Sorting & Searching | **289** | `██████████████░░░░░░░░░░` |
 | Hashing & Maps | **218** | `███████████░░░░░░░░░░░░░` |
 | Strings | **211** | `██████████░░░░░░░░░░░░░░` |
-| Greedy | **178** | `█████████░░░░░░░░░░░░░░░` |
+| Greedy | **179** | `█████████░░░░░░░░░░░░░░░` |
 | Trees | **171** | `████████░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **138** | `███████░░░░░░░░░░░░░░░░░` |
 | Graphs | **131** | `██████░░░░░░░░░░░░░░░░░░` |
@@ -156,6 +156,7 @@ pie showData title Difficulty distribution (all platforms)
 
 | Date | Platform | Problem | Difficulty | Solution |
 |:--|:--|:--|:--:|:--:|
+| 2026-10-09 | CodeChef | FGFS Bon Appetit | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/FGFS_Bon_Appetit.py) |
 | 2026-10-08 | HackerEarth | Zulu and Games | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Zulu_and_Games.py) |
 | 2026-10-08 | HackerEarth | Xsquare And Number List | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Xsquare_And_Number_List.py) |
 | 2026-10-08 | CodeChef | VACCINE3 Vaccine Drive | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/VACCINE3_Vaccine_Drive.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-08 | CodeChef | SETDIFF Set Difference | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SETDIFF_Set_Difference.py) |
 | 2026-10-08 | HackerEarth | Roy and Tiles | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Roy_and_Tiles.py) |
 | 2026-10-08 | LeetCode | Restaurant Growth | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Restaurant_Growth.sql) |
-| 2026-10-08 | LeetCode | Remove Outermost Parentheses | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Remove_Outermost_Parentheses.py) |
 
 ---
 
@@ -180,8 +180,8 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Reach 300 solutions in this repo
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
-- [ ] Keep a 100-day streak (current: **55** days)
-- [ ] Reach 1,500 solutions in this repo (**1,496** so far)
+- [ ] Keep a 100-day streak (current: **56** days)
+- [ ] Reach 1,500 solutions in this repo (**1,497** so far)
 
 ---
 
@@ -189,7 +189,7 @@ pie showData title Difficulty distribution (all platforms)
 
 *Consistency over intensity — one problem at a time.* 🚀
 
-<sub>Last auto-updated: 08 Oct 2026 by <code>scripts/update_readme.py</code></sub>
+<sub>Last auto-updated: 09 Oct 2026 by <code>scripts/update_readme.py</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
