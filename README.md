@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C530+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C531+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1530-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1531-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-58%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-58-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-216-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-217-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1299-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1300-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,530** | **684** | **570** | **216** | **58** | **58 days** |
+| **1,531** | **684** | **570** | **217** | **58** | **58 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 11 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -58,7 +58,7 @@
 ```text
 Daily-Coding-Log/
 └── DSA-Practice/
-    ├── CodeChef/        # 413 solutions
+    ├── CodeChef/        # 414 solutions
     ├── HackerEarth/     # 333 solutions
     ├── Code360/         # 193 solutions
     ├── LeetCode/        # 187 solutions
@@ -76,7 +76,7 @@ Daily-Coding-Log/
 
 | Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
-| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **413** | `███░░░░░░░░░` 27% | 142 | 177 | 140 | 67 | 29 |
+| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **414** | `███░░░░░░░░░` 27% | 142 | 177 | 140 | 68 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **333** | `███░░░░░░░░░` 22% | 154 | 199 | 110 | 12 | 12 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `██░░░░░░░░░░` 13% | 111 | 89 | 70 | 34 | 0 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **187** | `█░░░░░░░░░░░` 12% | 1,599 | 66 | 79 | 37 | 5 |
@@ -84,7 +84,7 @@ Daily-Coding-Log/
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 7% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **57** | `░░░░░░░░░░░░` 4% | 1,315 | 13 | 30 | 12 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **55** | `░░░░░░░░░░░░` 4% | 668 | 5 | 31 | 17 | 2 |
-| **Total** | **1,530** | | | **684** | **570** | **216** | **60** |
+| **Total** | **1,531** | | | **684** | **570** | **217** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 684
     "Medium" : 570
-    "Hard" : 216
+    "Hard" : 217
     "Unrated" : 60
 ```
 
@@ -110,7 +110,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|--:|:--|
 | Implementation & Simulation | **504** | `████████████████████████` |
 | Arrays & Prefix Sums | **389** | `███████████████████░░░░░` |
-| Math & Number Theory | **369** | `██████████████████░░░░░░` |
+| Math & Number Theory | **370** | `██████████████████░░░░░░` |
 | Sorting & Searching | **299** | `██████████████░░░░░░░░░░` |
 | Hashing & Maps | **224** | `███████████░░░░░░░░░░░░░` |
 | Strings | **215** | `██████████░░░░░░░░░░░░░░` |
@@ -121,7 +121,7 @@ pie showData title Difficulty distribution (all platforms)
 | Dynamic Programming | **129** | `██████░░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **110** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **92** | `████░░░░░░░░░░░░░░░░░░░░` |
-| Recursion & Backtracking | **85** | `████░░░░░░░░░░░░░░░░░░░░` |
+| Recursion & Backtracking | **86** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Bit Manipulation | **66** | `███░░░░░░░░░░░░░░░░░░░░░` |
 | Linked Lists | **27** | `█░░░░░░░░░░░░░░░░░░░░░░░` |
 
@@ -158,6 +158,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|:--|:--|:--:|:--:|
 | 2026-10-11 | CodeChef | XDS XD Subsequences | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/XDS_XD_Subsequences.py) |
 | 2026-10-11 | CodeChef | PEPPERON Chef and Pepperoni Pizza | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/PEPPERON_Chef_and_Pepperoni_Pizza.py) |
+| 2026-10-11 | CodeChef | MGAME Chef and Modulo Game | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/MGAME_Chef_and_Modulo_Game.py) |
 | 2026-10-11 | CodeChef | MAXEXPR Maximize an Expression | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/MAXEXPR_Maximize_an_Expression.py) |
 | 2026-10-11 | CodeChef | LEEXAMS Little Elephant and Exams | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/LEEXAMS_Little_Elephant_and_Exams.py) |
 | 2026-10-11 | CodeChef | LEALCO Little Elephant and Alcohol | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/LEALCO_Little_Elephant_and_Alcohol.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-10 | CodeChef | S07E09 The One with All the Candy | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/S07E09_The_One_with_All_the_Candy.py) |
 | 2026-10-10 | HackerEarth | Painting The logo | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Painting_The_logo.py) |
 | 2026-10-10 | LeetCode | Minimum Sum of Squared Difference | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Minimum_Sum_of_Squared_Difference.py) |
-| 2026-10-10 | HackerEarth | Mehta And Subarrays | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Mehta_And_Subarrays.py) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **58** days)
-- [x] Reach 1,500 solutions in this repo (**1,530** so far)
+- [x] Reach 1,500 solutions in this repo (**1,531** so far)
 
 ---
 
