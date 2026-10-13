@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C561+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C562+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1561-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1562-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-60%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-60-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-231-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1330-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1331-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,561** | **689** | **581** | **231** | **60** | **60 days** |
+| **1,562** | **689** | **582** | **231** | **60** | **60 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 13 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -65,7 +65,7 @@ Daily-Coding-Log/
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
     ├── GeeksforGeeks/   # 60 solutions
-    └── Unstop/          # 57 solutions
+    └── Unstop/          # 58 solutions
 ```
 
 ---
@@ -83,8 +83,8 @@ Daily-Coding-Log/
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 12% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 7% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **60** | `░░░░░░░░░░░░` 4% | 1,315 | 15 | 31 | 12 | 2 |
-| [Unstop](https://unstop.com/u/arindmah7062) | **57** | `░░░░░░░░░░░░` 4% | 668 | 5 | 32 | 18 | 2 |
-| **Total** | **1,561** | | | **689** | **581** | **231** | **60** |
+| [Unstop](https://unstop.com/u/arindmah7062) | **58** | `░░░░░░░░░░░░` 4% | 668 | 5 | 33 | 18 | 2 |
+| **Total** | **1,562** | | | **689** | **582** | **231** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -93,7 +93,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 689
-    "Medium" : 581
+    "Medium" : 582
     "Hard" : 231
     "Unrated" : 60
 ```
@@ -111,13 +111,13 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **509** | `████████████████████████` |
 | Arrays & Prefix Sums | **399** | `███████████████████░░░░░` |
 | Math & Number Theory | **376** | `██████████████████░░░░░░` |
-| Sorting & Searching | **315** | `███████████████░░░░░░░░░` |
-| Hashing & Maps | **229** | `███████████░░░░░░░░░░░░░` |
+| Sorting & Searching | **316** | `███████████████░░░░░░░░░` |
+| Hashing & Maps | **230** | `███████████░░░░░░░░░░░░░` |
 | Strings | **216** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **197** | `█████████░░░░░░░░░░░░░░░` |
 | Trees | **176** | `████████░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **147** | `███████░░░░░░░░░░░░░░░░░` |
-| Graphs | **132** | `██████░░░░░░░░░░░░░░░░░░` |
+| Graphs | **133** | `██████░░░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **130** | `██████░░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **113** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **92** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -161,6 +161,7 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-13 | CodeChef | STFM Chef and Strange Formula | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/STFM_Chef_and_Strange_Formula.py) |
 | 2026-10-13 | CodeChef | SPLIT7 Split | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SPLIT7_Split.py) |
 | 2026-10-13 | CodeChef | SEGFAULT Segmentation Fault | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SEGFAULT_Segmentation_Fault.py) |
+| 2026-10-13 | Unstop | Reachable Wards | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Reachable_Wards.py) |
 | 2026-10-13 | HackerEarth | Ranks for the banks | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Ranks_for_the_banks.py) |
 | 2026-10-13 | LeetCode | Maximum Alternating Sum of Squares | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Maximum_Alternating_Sum_of_Squares.py) |
 | 2026-10-13 | CodeChef | KAVGMAT Worthy Matrix | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/KAVGMAT_Worthy_Matrix.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-13 | HackerEarth | Bugs | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Bugs.py) |
 | 2026-10-13 | GeeksforGeeks | Adding Ones | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Adding_Ones.py) |
 | 2026-10-12 | Unstop | Static on the Canopy Line | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Static_on_the_Canopy_Line.py) |
-| 2026-10-12 | CodeChef | SWSHI Sweet Shopping | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SWSHI_Sweet_Shopping.py) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **60** days)
-- [x] Reach 1,500 solutions in this repo (**1,561** so far)
+- [x] Reach 1,500 solutions in this repo (**1,562** so far)
 
 ---
 
