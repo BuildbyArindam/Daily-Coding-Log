@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C628+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C629+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1628-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1629-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-67%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-67-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-260-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-261-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1397-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1398-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,628** | **705** | **603** | **260** | **67** | **67 days** |
+| **1,629** | **705** | **603** | **261** | **67** | **67 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 20 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -60,7 +60,7 @@ Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 462 solutions
     ├── HackerEarth/     # 353 solutions
-    ├── LeetCode/        # 196 solutions
+    ├── LeetCode/        # 197 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
@@ -78,13 +78,13 @@ Daily-Coding-Log/
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **462** | `███░░░░░░░░░` 28% | 142 | 184 | 147 | 102 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **353** | `███░░░░░░░░░` 22% | 154 | 206 | 120 | 15 | 12 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **196** | `█░░░░░░░░░░░` 12% | 1,599 | 69 | 82 | 40 | 5 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **197** | `█░░░░░░░░░░░` 12% | 1,599 | 69 | 82 | 41 | 5 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 12% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 11% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 7% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **67** | `░░░░░░░░░░░░` 4% | 1,315 | 17 | 36 | 12 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **65** | `░░░░░░░░░░░░` 4% | 668 | 5 | 38 | 20 | 2 |
-| **Total** | **1,628** | | | **705** | **603** | **260** | **60** |
+| **Total** | **1,629** | | | **705** | **603** | **261** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 705
     "Medium" : 603
-    "Hard" : 260
+    "Hard" : 261
     "Unrated" : 60
 ```
 
@@ -109,9 +109,9 @@ pie showData title Difficulty distribution (all platforms)
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
 | Implementation & Simulation | **517** | `████████████████████████` |
-| Arrays & Prefix Sums | **422** | `████████████████████░░░░` |
-| Math & Number Theory | **395** | `██████████████████░░░░░░` |
-| Sorting & Searching | **340** | `████████████████░░░░░░░░` |
+| Arrays & Prefix Sums | **423** | `████████████████████░░░░` |
+| Math & Number Theory | **396** | `██████████████████░░░░░░` |
+| Sorting & Searching | **341** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **242** | `███████████░░░░░░░░░░░░░` |
 | Strings | **222** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **212** | `██████████░░░░░░░░░░░░░░` |
@@ -157,6 +157,7 @@ pie showData title Difficulty distribution (all platforms)
 | Date | Platform | Problem | Difficulty | Solution |
 |:--|:--|:--|:--:|:--:|
 | 2026-10-20 | Unstop | The Excavation Network | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/The_Excavation_Network.py) |
+| 2026-10-20 | LeetCode | Sum of Sortable Integers | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Sum_of_Sortable_Integers.py) |
 | 2026-10-20 | CodeChef | SECPASS Chef and Secret Password | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SECPASS_Chef_and_Secret_Password.py) |
 | 2026-10-20 | HackerEarth | Old keypad in a foreign land | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Old_keypad_in_a_foreign_land.py) |
 | 2026-10-20 | GeeksforGeeks | Largest with Same Parity Adjacent Swaps | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Largest_with_Same_Parity_Adjacent_Swaps.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-19 | CodeChef | DSA3B Sliding Window Maximum | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/DSA3B_Sliding_Window_Maximum.py) |
 | 2026-10-19 | GeeksforGeeks | Count Indices That Escape Array | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Count_Indices_That_Escape_Array.py) |
 | 2026-10-19 | CodeChef | CGOOE Count Good Elements | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/CGOOE_Count_Good_Elements.py) |
-| 2026-10-19 | HackerEarth | Benny and Segments | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Benny_and_Segments.py) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **67** days)
-- [x] Reach 1,500 solutions in this repo (**1,628** so far)
+- [x] Reach 1,500 solutions in this repo (**1,629** so far)
 
 ---
 
