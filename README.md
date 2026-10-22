@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C664+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C665+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1664-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1665-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-69%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-69-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-269-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1433-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1434-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,664** | **718** | **617** | **269** | **69** | **69 days** |
+| **1,665** | **718** | **618** | **269** | **69** | **69 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 22 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -64,7 +64,7 @@ Daily-Coding-Log/
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
-    ├── GeeksforGeeks/   # 68 solutions
+    ├── GeeksforGeeks/   # 69 solutions
     └── Unstop/          # 67 solutions
 ```
 
@@ -82,9 +82,9 @@ Daily-Coding-Log/
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 12% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 11% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **68** | `░░░░░░░░░░░░` 4% | 1,315 | 17 | 37 | 12 | 2 |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **69** | `░░░░░░░░░░░░` 4% | 1,315 | 17 | 38 | 12 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **67** | `░░░░░░░░░░░░` 4% | 668 | 6 | 39 | 20 | 2 |
-| **Total** | **1,664** | | | **718** | **617** | **269** | **60** |
+| **Total** | **1,665** | | | **718** | **618** | **269** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -93,7 +93,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 718
-    "Medium" : 617
+    "Medium" : 618
     "Hard" : 269
     "Unrated" : 60
 ```
@@ -113,13 +113,13 @@ pie showData title Difficulty distribution (all platforms)
 | Math & Number Theory | **412** | `███████████████████░░░░░` |
 | Sorting & Searching | **348** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **246** | `███████████░░░░░░░░░░░░░` |
-| Strings | **226** | `██████████░░░░░░░░░░░░░░` |
-| Greedy | **216** | `██████████░░░░░░░░░░░░░░` |
+| Strings | **227** | `██████████░░░░░░░░░░░░░░` |
+| Greedy | **217** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **195** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **160** | `███████░░░░░░░░░░░░░░░░░` |
 | Graphs | **144** | `███████░░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **142** | `██████░░░░░░░░░░░░░░░░░░` |
-| Two Pointers & Sliding Window | **120** | `█████░░░░░░░░░░░░░░░░░░░` |
+| Two Pointers & Sliding Window | **121** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **94** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **87** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Bit Manipulation | **77** | `███░░░░░░░░░░░░░░░░░░░░░` |
@@ -160,6 +160,7 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-22 | CodeChef | SUBSETMINMAX Subset Min Max | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SUBSETMINMAX_Subset_Min_Max.py) |
 | 2026-10-22 | CodeChef | SNCO Equal Chocolates | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/SNCO_Equal_Chocolates.py) |
 | 2026-10-22 | CodeChef | RMWS Range Minimum with Swaps | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/RMWS_Range_Minimum_with_Swaps.py) |
+| 2026-10-22 | GeeksforGeeks | Palindrome with Replacement | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Palindrome_with_Replacement.py) |
 | 2026-10-22 | HackerEarth | Monk and Nice Strings | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Monk_and_Nice_Strings.py) |
 | 2026-10-22 | HackerEarth | Maximum length subsequence | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Maximum_length_subsequence.py) |
 | 2026-10-22 | CodeChef | MINP Minimum Incompatibility Partition | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/MINP_Minimum_Incompatibility_Partition.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-22 | CodeChef | CLSC Closest Scores | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/CLSC_Closest_Scores.py) |
 | 2026-10-22 | CodeChef | BAIN Balanced Ingredients | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/BAIN_Balanced_Ingredients.py) |
 | 2026-10-22 | CodeChef | AVOIDINGM Avoiding M Easy | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/AVOIDINGM_Avoiding_M_Easy.py) |
-| 2026-10-22 | CodeChef | AVOIDINGM2 Avoiding M Hard | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/AVOIDINGM2_Avoiding_M_Hard.py) |
 
 ---
 
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **69** days)
-- [x] Reach 1,500 solutions in this repo (**1,664** so far)
+- [x] Reach 1,500 solutions in this repo (**1,665** so far)
 
 ---
 
