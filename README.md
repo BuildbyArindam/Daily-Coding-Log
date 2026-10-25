@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C690+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C691+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1690-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1691-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current%20Streak-71%20days-f78166?style=for-the-badge)
-![Active](https://img.shields.io/badge/Active%20Days-71-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-286-f85149?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current%20Streak-72%20days-f78166?style=for-the-badge)
+![Active](https://img.shields.io/badge/Active%20Days-72-3fb950?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-287-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1459-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1460-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,9 +24,9 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,690** | **722** | **622** | **286** | **71** | **71 days** |
+| **1,691** | **722** | **622** | **287** | **72** | **72 days** |
 
-> 📆 Logging window: **15 Aug 2026 → 24 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
+> 📆 Logging window: **15 Aug 2026 → 25 Oct 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
 ---
 
@@ -58,7 +58,7 @@
 ```text
 Daily-Coding-Log/
 └── DSA-Practice/
-    ├── CodeChef/        # 505 solutions
+    ├── CodeChef/        # 506 solutions
     ├── HackerEarth/     # 359 solutions
     ├── LeetCode/        # 201 solutions
     ├── Code360/         # 193 solutions
@@ -76,7 +76,7 @@ Daily-Coding-Log/
 
 | Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
-| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **505** | `████░░░░░░░░` 30% | 142 | 192 | 158 | 126 | 29 |
+| [CodeChef](https://www.codechef.com/users/amahapatra2004) | **506** | `████░░░░░░░░` 30% | 142 | 192 | 158 | 127 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **359** | `███░░░░░░░░░` 21% | 154 | 212 | 120 | 15 | 12 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **201** | `█░░░░░░░░░░░` 12% | 1,599 | 70 | 85 | 41 | 5 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
@@ -84,7 +84,7 @@ Daily-Coding-Log/
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **71** | `█░░░░░░░░░░░` 4% | 1,315 | 18 | 39 | 12 | 2 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **69** | `░░░░░░░░░░░░` 4% | 668 | 6 | 40 | 21 | 2 |
-| **Total** | **1,690** | | | **722** | **622** | **286** | **60** |
+| **Total** | **1,691** | | | **722** | **622** | **287** | **60** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 722
     "Medium" : 622
-    "Hard" : 286
+    "Hard" : 287
     "Unrated" : 60
 ```
 
@@ -108,13 +108,13 @@ pie showData title Difficulty distribution (all platforms)
 
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
-| Implementation & Simulation | **538** | `████████████████████████` |
+| Implementation & Simulation | **539** | `████████████████████████` |
 | Arrays & Prefix Sums | **436** | `███████████████████░░░░░` |
-| Math & Number Theory | **420** | `███████████████████░░░░░` |
+| Math & Number Theory | **421** | `███████████████████░░░░░` |
 | Sorting & Searching | **352** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **249** | `███████████░░░░░░░░░░░░░` |
 | Strings | **229** | `██████████░░░░░░░░░░░░░░` |
-| Greedy | **222** | `██████████░░░░░░░░░░░░░░` |
+| Greedy | **223** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **199** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **161** | `███████░░░░░░░░░░░░░░░░░` |
 | Graphs | **145** | `██████░░░░░░░░░░░░░░░░░░` |
@@ -156,6 +156,7 @@ pie showData title Difficulty distribution (all platforms)
 
 | Date | Platform | Problem | Difficulty | Solution |
 |:--|:--|:--|:--:|:--:|
+| 2026-10-25 | CodeChef | DISTK K Distinct Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/DISTK_K_Distinct_Array.py) |
 | 2026-10-24 | GeeksforGeeks | Trace Path | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Trace_Path.py) |
 | 2026-10-24 | CodeChef | TRPLSRT Triple Sort | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/TRPLSRT_Triple_Sort.py) |
 | 2026-10-24 | Unstop | Spring Exhibition Ledger | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Spring_Exhibition_Ledger.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-24 | CodeChef | CAMC Chef and Minimum Colouring | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/CAMC_Chef_and_Minimum_Colouring.py) |
 | 2026-10-24 | CodeChef | ANTEATER Ants and Anteaters | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/ANTEATER_Ants_and_Anteaters.py) |
 | 2026-10-23 | Unstop | Shelf Life Ledger | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Shelf_Life_Ledger.py) |
-| 2026-10-23 | CodeChef | PERMCNTEZ Permutation Counting Easy | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/PERMCNTEZ_Permutation_Counting_Easy.py) |
 
 ---
 
@@ -180,8 +180,8 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Reach 300 solutions in this repo
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
-- [ ] Keep a 100-day streak (current: **71** days)
-- [x] Reach 1,500 solutions in this repo (**1,690** so far)
+- [ ] Keep a 100-day streak (current: **72** days)
+- [x] Reach 1,500 solutions in this repo (**1,691** so far)
 
 ---
 
@@ -189,7 +189,7 @@ pie showData title Difficulty distribution (all platforms)
 
 *Consistency over intensity — one problem at a time.* 🚀
 
-<sub>Last auto-updated: 24 Oct 2026 by <code>scripts/update_readme.py</code></sub>
+<sub>Last auto-updated: 25 Oct 2026 by <code>scripts/update_readme.py</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
