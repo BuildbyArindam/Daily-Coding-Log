@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C728+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C729+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1728-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1729-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current%20Streak-1%20days-f78166?style=for-the-badge)
-![Active](https://img.shields.io/badge/Active%20Days-82-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-301-f85149?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current%20Streak-2%20days-f78166?style=for-the-badge)
+![Active](https://img.shields.io/badge/Active%20Days-83-3fb950?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-302-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1497-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1498-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-29-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,9 +24,9 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,728** | **736** | **630** | **301** | **82** | **81 days** |
+| **1,729** | **736** | **630** | **302** | **83** | **81 days** |
 
-> 📆 Logging window: **15 Aug 2026 → 05 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
+> 📆 Logging window: **15 Aug 2026 → 06 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
 ---
 
@@ -64,8 +64,8 @@ Daily-Coding-Log/
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
-    ├── GeeksforGeeks/   # 74 solutions
-    └── Unstop/          # 74 solutions
+    ├── Unstop/          # 75 solutions
+    └── GeeksforGeeks/   # 74 solutions
 ```
 
 ---
@@ -82,9 +82,9 @@ Daily-Coding-Log/
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 11% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
+| [Unstop](https://unstop.com/u/arindmah7062) | **75** | `█░░░░░░░░░░░` 4% | 668 | 7 | 41 | 25 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **74** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 41 | 12 | 2 |
-| [Unstop](https://unstop.com/u/arindmah7062) | **74** | `█░░░░░░░░░░░` 4% | 668 | 7 | 41 | 24 | 2 |
-| **Total** | **1,728** | | | **736** | **630** | **301** | **61** |
+| **Total** | **1,729** | | | **736** | **630** | **302** | **61** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -94,7 +94,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 736
     "Medium" : 630
-    "Hard" : 301
+    "Hard" : 302
     "Unrated" : 61
 ```
 
@@ -111,13 +111,13 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **550** | `████████████████████████` |
 | Arrays & Prefix Sums | **447** | `████████████████████░░░░` |
 | Math & Number Theory | **432** | `███████████████████░░░░░` |
-| Sorting & Searching | **361** | `████████████████░░░░░░░░` |
+| Sorting & Searching | **362** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **255** | `███████████░░░░░░░░░░░░░` |
 | Strings | **232** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **224** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **204** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **165** | `███████░░░░░░░░░░░░░░░░░` |
-| Graphs | **152** | `███████░░░░░░░░░░░░░░░░░` |
+| Graphs | **153** | `███████░░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **149** | `███████░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **126** | `█████░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **94** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -156,6 +156,7 @@ pie showData title Difficulty distribution (all platforms)
 
 | Date | Platform | Problem | Difficulty | Solution |
 |:--|:--|:--|:--:|:--:|
+| 2026-11-06 | Unstop | Ledger of Lantern Cables | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Ledger_of_Lantern_Cables.py) |
 | 2026-11-05 | LeetCode | Find the Distance Value Between Two Arrays | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Find_the_Distance_Value_Between_Two_Arrays.py) |
 | 2026-11-03 | Unstop | Fuel Reach Across Sector Corridors | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Fuel_Reach_Across_Sector_Corridors.py) |
 | 2026-11-02 | HackerEarth | Chandu and his Girlfriend Returns | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Chandu_and_his_Girlfriend_Returns.py) |
@@ -170,7 +171,6 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-10-28 | CodeChef | EVOFWEIRDSUM Sum This Up | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/EVOFWEIRDSUM_Sum_This_Up.py) |
 | 2026-10-28 | CodeChef | COLLECT Collecting Magical Berries | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/COLLECT_Collecting_Magical_Berries.py) |
 | 2026-10-28 | CodeChef | CHEFARC Chef and Robots Competition | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/CHEFARC_Chef_and_Robots_Competition.py) |
-| 2026-10-27 | HackerEarth | Sum of sum of digits | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Sum_of_sum_of_digits.py) |
 
 ---
 
@@ -180,8 +180,8 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Reach 300 solutions in this repo
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
-- [ ] Keep a 100-day streak (current: **1** days)
-- [x] Reach 1,500 solutions in this repo (**1,728** so far)
+- [ ] Keep a 100-day streak (current: **2** days)
+- [x] Reach 1,500 solutions in this repo (**1,729** so far)
 
 ---
 
@@ -189,7 +189,7 @@ pie showData title Difficulty distribution (all platforms)
 
 *Consistency over intensity — one problem at a time.* 🚀
 
-<sub>Last auto-updated: 05 Nov 2026 by <code>scripts/update_readme.py</code></sub>
+<sub>Last auto-updated: 06 Nov 2026 by <code>scripts/update_readme.py</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
