@@ -1,5 +1,5 @@
 """
-Problem   : Construct Uniform Parity Array II
+Problem   : 3876. Construct Uniform Parity Array II
 Platform  : LeetCode
 Link      : https://leetcode.com/problems/construct-uniform-parity-array-ii/?envType=daily-question&envId=2026-09-03
 Difficulty: Medium
