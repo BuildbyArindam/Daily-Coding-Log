@@ -1,5 +1,5 @@
 """
-Problem: Find X-Value of Array II
+Problem: 3525. Find X-Value of Array II
 Platform: LeetCode
 Link: https://leetcode.com/problems/find-x-value-of-array-ii/?envType=daily-question&envId=2026-09-22
 Date Solved: 2026-09-22
