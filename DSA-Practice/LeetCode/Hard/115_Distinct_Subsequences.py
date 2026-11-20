@@ -1,5 +1,5 @@
 """
-Problem   : Distinct Subsequences
+Problem   : 115. Distinct Subsequences
 Platform  : LeetCode
 Link      : https://leetcode.com/problems/distinct-subsequences/
 Date      : 2026-09-06
