@@ -1,5 +1,5 @@
 -- ============================================================
--- Problem   : Employees Whose Manager Left the Company
+-- Problem   : 1978. Employees Whose Manager Left the Company
 -- Platform  : LeetCode
 -- Link      : https://leetcode.com/quest/database-quest/quiz/employees-whose-manager-left-the-company/
 -- Date      : 2026-08-23
