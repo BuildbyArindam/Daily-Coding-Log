@@ -1,5 +1,5 @@
 """
-Problem: Longest Subsequence With Non-Zero Bitwise XOR
+Problem: 3702. Longest Subsequence With Non-Zero Bitwise XOR
 Link: https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/
 Date: 2026-08-15
 Difficulty: Medium
