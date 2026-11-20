@@ -1,5 +1,5 @@
 """
-Problem: Lexicographically Smallest Palindromic Permutation Greater Than Target
+Problem: 3734. Lexicographically Smallest Palindromic Permutation Greater Than Target
 Platform: LeetCode (Daily Challenge, 2026-08-28)
 Link: https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
 Difficulty: Hard
