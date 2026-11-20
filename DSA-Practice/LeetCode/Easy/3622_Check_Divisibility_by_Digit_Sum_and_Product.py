@@ -1,5 +1,5 @@
 """
-Problem: Check Divisibility by Digit Sum and Product
+Problem: 3622. Check Divisibility by Digit Sum and Product
 Link: https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/
 Date Solved: 2026-08-23
 Difficulty: Easy
