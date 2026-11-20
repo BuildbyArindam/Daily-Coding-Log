@@ -1,5 +1,5 @@
 /*
-Problem: List the Products Ordered in a Period
+Problem: 1327. List the Products Ordered in a Period
 Platform: LeetCode
 Link: https://leetcode.com/quest/database-quest/quiz/list-the-products-ordered-in-a-period/
 Date Solved: 2026-08-23
