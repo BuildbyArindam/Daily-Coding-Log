@@ -1,5 +1,5 @@
 """
-Problem: Find Two Non-overlapping Sub-arrays Each With Target Sum
+Problem: 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
 Link: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 Date Solved: 2026-09-17
 Difficulty: Medium
