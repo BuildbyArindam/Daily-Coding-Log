@@ -1,5 +1,5 @@
 """
-Problem: Kth Smallest Amount With Single Denomination Combination
+Problem: 3116. Kth Smallest Amount With Single Denomination Combination
 Link: https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/
 Date Solved: 2026-08-21
 Difficulty: Hard
