@@ -1,6 +1,7 @@
 /*
  * Problem   : 1211. Queries Quality and Percentage
- * Platform  : LeetCode (Easy) 
+ * Platform  : LeetCode 
+ * Difficulty: Easy
  * Topic     : Database
  * Link      : https://leetcode.com/problems/queries-quality-and-percentage/
  * Date      : 2026-10-05
