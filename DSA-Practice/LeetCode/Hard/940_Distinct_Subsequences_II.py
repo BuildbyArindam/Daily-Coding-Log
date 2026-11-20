@@ -1,5 +1,5 @@
 """
-Problem: Distinct Subsequences II
+Problem: 940. Distinct Subsequences II
 Link: https://leetcode.com/problems/distinct-subsequences-ii/
 Platform: LeetCode
 Date Solved: 2026-09-07
