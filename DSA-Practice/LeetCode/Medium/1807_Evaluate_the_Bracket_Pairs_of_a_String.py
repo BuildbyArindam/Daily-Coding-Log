@@ -1,5 +1,5 @@
 """
-Problem: Evaluate the Bracket Pairs of a String
+Problem: 1807. Evaluate the Bracket Pairs of a String
 Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 Date: 2026-09-26
 Difficulty: Medium
