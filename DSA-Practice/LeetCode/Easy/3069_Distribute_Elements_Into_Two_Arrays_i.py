@@ -1,5 +1,5 @@
 """
-Problem: Distribute Elements Into Two Arrays I
+Problem: 3069. Distribute Elements Into Two Arrays I
 Platform: LeetCode
 Link: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 Date Solved: 2026-08-20
