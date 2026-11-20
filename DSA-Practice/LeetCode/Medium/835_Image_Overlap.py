@@ -1,5 +1,5 @@
 """
-Problem: Image Overlap
+Problem: 835. Image Overlap
 LeetCode: https://leetcode.com/problems/image-overlap/
 Date Solved: 2026-09-13
 Difficulty: Medium
