@@ -1,7 +1,10 @@
 """
-LeetCode 3489 - Minimum Moves to Clean the Classroom (Medium)
+LeetCode 3568 - Minimum Moves to Clean the Classroom 
 Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
 Solved: 2026-09-01 (Daily Challenge)
+Difficulty: Medium
+Topics: Staff, Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix
+
 
 Approach:
     BFS over states (row, col, litter_mask, energy_remaining).
