@@ -1,5 +1,5 @@
 """
-Problem: Cinema Seat Allocation
+Problem: 1386. Cinema Seat Allocation
 Link: https://leetcode.com/problems/cinema-seat-allocation/
 Date Solved: 2026-08-19
 Difficulty: Medium
