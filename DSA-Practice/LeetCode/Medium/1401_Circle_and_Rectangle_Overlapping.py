@@ -1,5 +1,5 @@
 """
-Problem: Circle and Rectangle Overlapping
+Problem: 1401. Circle and Rectangle Overlapping
 Link: https://leetcode.com/problems/circle-and-rectangle-overlapping/?envType=daily-question&envId=2026-09-19
 Date Solved: 2026-09-19
 Difficulty: Medium
