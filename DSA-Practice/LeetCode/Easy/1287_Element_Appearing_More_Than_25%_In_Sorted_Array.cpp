@@ -1,8 +1,9 @@
 /*
  * Problem : 1287. Element Appearing More Than 25% In Sorted Array
- * Platform: LeetCode (Easy)
+ * Platform: LeetCode 
  * Link    : https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
  * Date    : 2026-10-03
+ Difficulty: Easy
  * Topics  : Array
  *
  * Approach:
