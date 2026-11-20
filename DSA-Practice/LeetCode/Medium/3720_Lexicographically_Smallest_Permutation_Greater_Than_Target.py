@@ -1,6 +1,6 @@
 """
 LeetCode Daily Challenge — Aug 27, 2026
-Problem: Lexicographically Smallest Permutation Greater Than Target
+Problem: 3720. Lexicographically Smallest Permutation Greater Than Target
 Link: https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/
 Difficulty: Medium
 Topics: Hash Table, String, Greedy, Counting, Enumeration
