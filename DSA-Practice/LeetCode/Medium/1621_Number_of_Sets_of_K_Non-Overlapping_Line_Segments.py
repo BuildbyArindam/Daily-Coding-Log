@@ -1,18 +1,20 @@
-# Problem: Number of Sets of K Non-Overlapping Line Segments
-# Link: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
-# Date: 2026-09-16
-# Difficulty: Medium 
-# Topic: Staff, Math, Dynamic Programming, Combinatorics, Prefix Sum
-#
-# Approach:
-# Dynamic Programming with 2 states per number of segments.
-#   dp[j][0] -> j segments, with the current point not inside an open segment.
-#   dp[j][1] -> j segments, with the current point inside an open segment.
-# Process the n points one by one and transition between these states while
-# allowing segments to share endpoints but not overlap in their interiors.
-#
-# Time:  O(n * k)
-# Space: O(k)
+"""
+Problem: 1621. Number of Sets of K Non-Overlapping Line Segments
+Link: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
+Date: 2026-09-16
+Difficulty: Medium 
+Topic: Staff, Math, Dynamic Programming, Combinatorics, Prefix Sum
+
+Approach:
+Dynamic Programming with 2 states per number of segments.
+  dp[j][0] -> j segments, with the current point not inside an open segment.
+  dp[j][1] -> j segments, with the current point inside an open segment.
+Process the n points one by one and transition between these states while
+allowing segments to share endpoints but not overlap in their interiors.
+
+Time:  O(n * k)
+Space: O(k)
+"""
 
 
 # ------------------------------ Solution ----------------------------------------
