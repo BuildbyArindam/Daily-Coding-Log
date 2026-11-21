@@ -1,5 +1,5 @@
 """
-Problem   : Make Lexicographically Smallest Array by Swapping Elements
+Problem   : 2948. Make Lexicographically Smallest Array by Swapping Elements
 Link      : https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
 Platform  : LeetCode
 Date      : 2026-08-29
