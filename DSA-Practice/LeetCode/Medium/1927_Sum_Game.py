@@ -1,5 +1,5 @@
 """
-Problem: Sum Game
+Problem: 1927. Sum Game
 Link: https://leetcode.com/problems/sum-game/
 Date Solved: 2026-08-23
 Difficulty: Medium
