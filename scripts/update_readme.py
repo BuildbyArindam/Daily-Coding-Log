@@ -55,6 +55,7 @@ CATS = [
     ("Implementation & Simulation", r"implement|simulat|brute|basic|i/o|conditional|constructive|loop|ad.hoc|game"),
     ("Design / OOP / SQL", r"solid|oop|design|sql|class|database|query"),
 ]
+FOLDER_DIFFS = {"easy", "medium", "hard"}  # folder names treated as a difficulty
 CODE_EXT = {".py", ".js", ".java", ".cpp", ".c", ".sql", ".ts", ".go", ".rs", ".kt", ".cs"}
 
 
@@ -82,30 +83,42 @@ def normalise(plat, diff, head):
 
 
 def read_rows():
+    """Scan every code file under DSA-Practice/<Platform>/ at ANY depth.
+
+    Sub-folders (e.g. LeetCode/Easy, LeetCode/Medium, LeetCode/Hard) are counted
+    toward their platform, and a difficulty-named folder is used as the
+    difficulty when the file header has none.
+    """
     rows = []
     for plat in sorted(os.listdir(SRC)):
         pdir = os.path.join(SRC, plat)
         if not os.path.isdir(pdir): continue
-        for f in sorted(os.listdir(pdir)):
-            if os.path.splitext(f)[1].lower() not in CODE_EXT: continue
-            head = open(os.path.join(pdir, f), encoding="utf-8", errors="ignore").read(3500)
-            d = re.search(r"(?:Difficulty|Rating|Level)\s*[:=]\s*([^\n|]+)", head, re.I)
-            diff = d.group(1).strip() if d else ""
-            if not diff:
-                m = re.search(r"\*(\d{3,4})", head)
-                diff = "*" + m.group(1) if m else ""
-            t = re.search(r"(?:Topics?|Tags?)\s*[:=]\s*([^\n]+)", head, re.I)
-            topics = re.sub(r"\|\s*Rating.*", "", t.group(1).strip()) if t else ""
-            dm = re.search(r"Date(?: Solved)?\s*[:=]\s*(\d{4}-\d{2}-\d{2})", head)
-            low = head.lower()
-            cats = [n for n, k in CATS if re.search(k, topics.lower())]
-            if not cats:
-                cats = [n for n, k in CATS if re.search(k, low)][:2] or ["Implementation & Simulation"]
-            cf = None
-            if plat == "Codeforces":
-                cf = rating_of(diff) or (int(m.group(1)) if (m := re.search(r"\*(\d{3,4})", head)) else None)
-            rows.append(dict(plat=plat, file=f, date=dm.group(1) if dm else "", cats=cats,
-                             nd=normalise(plat, diff, head), cf=cf))
+        for dirpath, dirnames, filenames in os.walk(pdir):
+            dirnames[:] = sorted(d for d in dirnames if not d.startswith("."))
+            sub = os.path.relpath(dirpath, pdir)
+            folder_diff = next((p for p in sub.split(os.sep) if p.lower() in FOLDER_DIFFS), "")
+            for f in sorted(filenames):
+                if os.path.splitext(f)[1].lower() not in CODE_EXT: continue
+                rel = f if sub == "." else "/".join(sub.split(os.sep) + [f])
+                head = open(os.path.join(dirpath, f), encoding="utf-8", errors="ignore").read(3500)
+                d = re.search(r"(?:Difficulty|Rating|Level)\s*[:=]\s*([^\n|]+)", head, re.I)
+                diff = d.group(1).strip() if d else ""
+                if not diff:
+                    m = re.search(r"\*(\d{3,4})", head)
+                    diff = "*" + m.group(1) if m else folder_diff
+                t = re.search(r"(?:Topics?|Tags?)\s*[:=]\s*([^\n]+)", head, re.I)
+                topics = re.sub(r"\|\s*Rating.*", "", t.group(1).strip()) if t else ""
+                dm = re.search(r"Date(?: Solved)?\s*[:=]\s*(\d{4}-\d{2}-\d{2})", head)
+                low = head.lower()
+                cats = [n for n, k in CATS if re.search(k, topics.lower())]
+                if not cats:
+                    cats = [n for n, k in CATS if re.search(k, low)][:2] or ["Implementation & Simulation"]
+                cf = None
+                if plat == "Codeforces":
+                    m = re.search(r"\*(\d{3,4})", head)
+                    cf = rating_of(diff) or (int(m.group(1)) if m else None)
+                rows.append(dict(plat=plat, file=f, rel=rel, date=dm.group(1) if dm else "", cats=cats,
+                                 nd=normalise(plat, diff, head), cf=cf))
     return rows
 
 
@@ -229,12 +242,12 @@ Daily-Coding-Log/
         w("\n### 💎 Hall of Fame (hardest solved)\n\n| Rating | Problem | Solution |\n|:--:|:--|:--:|")
         for r in sorted(cf, key=lambda r: -r["cf"])[:8]:
             nm = re.sub(r"^\d+[A-Z]?\d?[-_]", "", os.path.splitext(r["file"])[0]).replace("_", " ").replace("-", " ")
-            w(f"| ⭐ **{r['cf']}** | {nm} | [Code]({BASE}Codeforces/{quote(r['file'])}) |")
+            w(f"| ⭐ **{r['cf']}** | {nm} | [Code]({BASE}Codeforces/{quote(r['rel'])}) |")
     icon = {"Easy": "🟢", "Medium": "🟡", "Hard": "🔴", "Unrated": "⚪"}
     w("\n---\n\n## 📅 Recent Activity (latest solves)\n\n| Date | Platform | Problem | Difficulty | Solution |\n|:--|:--|:--|:--:|:--:|")
     for r in sorted([r for r in rows if r["date"]], key=lambda r: (r["date"], r["file"]), reverse=True)[:15]:
         nm = os.path.splitext(r["file"])[0].replace("_", " ")
-        w(f"| {r['date']} | {r['plat']} | {nm} | {icon[r['nd']]} {r['nd']} | [Code]({BASE}{r['plat']}/{quote(r['file'])}) |")
+        w(f"| {r['date']} | {r['plat']} | {nm} | {icon[r['nd']]} {r['nd']} | [Code]({BASE}{r['plat']}/{quote(r['rel'])}) |")
     tick = lambda ok: "x" if ok else " "
     w(f'''
 ---
