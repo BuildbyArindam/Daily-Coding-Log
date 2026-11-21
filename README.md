@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C549+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C548+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1549-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1548-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-15%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-96-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-267-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1447-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1446-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-26-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,549** | **672** | **554** | **267** | **96** | **81 days** |
+| **1,548** | **671** | **554** | **267** | **96** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 20 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -65,7 +65,7 @@ Daily-Coding-Log/
     ├── Codeforces/      # 108 solutions
     ├── Unstop/          # 89 solutions
     ├── GeeksforGeeks/   # 74 solutions
-    └── LeetCode/        # 12 solutions
+    └── LeetCode/        # 11 solutions
 ```
 
 ---
@@ -83,8 +83,8 @@ Daily-Coding-Log/
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 7% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **89** | `█░░░░░░░░░░░` 6% | 668 | 9 | 47 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **74** | `█░░░░░░░░░░░` 5% | 1,315 | 19 | 41 | 12 | 2 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **12** | `░░░░░░░░░░░░` 1% | 1,599 | 6 | 5 | 1 | 0 |
-| **Total** | **1,549** | | | **672** | **554** | **267** | **56** |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **11** | `░░░░░░░░░░░░` 1% | 1,599 | 5 | 5 | 1 | 0 |
+| **Total** | **1,548** | | | **671** | **554** | **267** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -92,7 +92,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
-    "Easy" : 672
+    "Easy" : 671
     "Medium" : 554
     "Hard" : 267
     "Unrated" : 56
@@ -108,13 +108,13 @@ pie showData title Difficulty distribution (all platforms)
 
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
-| Implementation & Simulation | **546** | `████████████████████████` |
+| Implementation & Simulation | **545** | `████████████████████████` |
 | Math & Number Theory | **403** | `██████████████████░░░░░░` |
 | Arrays & Prefix Sums | **366** | `████████████████░░░░░░░░` |
 | Sorting & Searching | **324** | `██████████████░░░░░░░░░░` |
 | Hashing & Maps | **223** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **206** | `█████████░░░░░░░░░░░░░░░` |
-| Strings | **188** | `████████░░░░░░░░░░░░░░░░` |
+| Strings | **187** | `████████░░░░░░░░░░░░░░░░` |
 | Trees | **186** | `████████░░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **152** | `███████░░░░░░░░░░░░░░░░░` |
 | Graphs | **142** | `██████░░░░░░░░░░░░░░░░░░` |
@@ -181,7 +181,7 @@ pie showData title Difficulty distribution (all platforms)
 - [x] Solve problems on 8+ platforms
 - [x] Solve Codeforces problems rated 2400+
 - [ ] Keep a 100-day streak (current: **15** days)
-- [x] Reach 1,500 solutions in this repo (**1,549** so far)
+- [x] Reach 1,500 solutions in this repo (**1,548** so far)
 
 ---
 
