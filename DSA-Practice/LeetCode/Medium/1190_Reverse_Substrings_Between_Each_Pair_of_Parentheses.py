@@ -1,5 +1,5 @@
 """
-Problem: Reverse Substrings Between Each Pair of Parentheses
+Problem: 1190. Reverse Substrings Between Each Pair of Parentheses
 LeetCode: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 Date Solved: 2026-09-27
 Difficulty: Medium
