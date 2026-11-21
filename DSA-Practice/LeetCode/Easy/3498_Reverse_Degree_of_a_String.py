@@ -1,5 +1,5 @@
 """
-Problem: Reverse Degree of a String
+Problem: 3498. Reverse Degree of a String
 Link: https://leetcode.com/problems/reverse-degree-of-a-string/?envType=daily-question&envId=2026-09-20
 Date Solved: 2026-09-20
 Difficulty: Easy
