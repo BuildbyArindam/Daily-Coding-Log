@@ -1,5 +1,5 @@
 """
-Problem   : Smallest Stable Index II
+Problem   : 3904. Smallest Stable Index II
 Platform  : LeetCode
 Link      : https://leetcode.com/problems/smallest-stable-index-ii/?envType=daily-question&envId=2026-09-05
 Date      : 2026-09-06
