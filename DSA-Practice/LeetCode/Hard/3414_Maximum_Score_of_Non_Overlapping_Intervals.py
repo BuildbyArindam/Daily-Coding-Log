@@ -1,5 +1,5 @@
 """
-Problem: Maximum Score of Non-overlapping Intervals
+Problem: 3414. Maximum Score of Non-overlapping Intervals
 Link: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
 Date Solved: 2026-09-12
 Difficulty: Hard
