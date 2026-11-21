@@ -1,5 +1,5 @@
 """
-Problem: Stone Game VIII
+Problem: 1872. Stone Game VIII
 Link: https://leetcode.com/problems/stone-game-viii/
 Date Solved: 2026-08-24
 Difficulty: Hard
