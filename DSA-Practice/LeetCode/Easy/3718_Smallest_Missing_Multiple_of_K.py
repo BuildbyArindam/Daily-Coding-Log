@@ -1,5 +1,5 @@
 """
-Problem: Smallest Missing Multiple of K
+Problem: 3718. Smallest Missing Multiple of K
 Link: https://leetcode.com/problems/smallest-missing-multiple-of-k/
 Date Solved: 2026-08-25
 Difficulty: Easy
