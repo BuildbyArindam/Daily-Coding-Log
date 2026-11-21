@@ -1,5 +1,5 @@
 """
-LeetCode - Maximum Number of Non-Overlapping Substrings
+LeetCode - 1520. Maximum Number of Non-Overlapping Substrings
 Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 Date: 2026-09-18
 Difficulty: Hard
