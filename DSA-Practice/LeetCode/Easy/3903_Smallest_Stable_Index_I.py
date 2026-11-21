@@ -1,5 +1,5 @@
 """
-Problem: Smallest Stable Index I
+Problem: 3903. Smallest Stable Index I
 Link: https://leetcode.com/problems/smallest-stable-index-i/
 Date Solved: 2026-09-04
 Difficulty: Easy
