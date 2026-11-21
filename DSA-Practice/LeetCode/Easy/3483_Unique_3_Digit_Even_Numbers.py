@@ -1,5 +1,5 @@
 """
-Problem: Unique 3-Digit Even Numbers
+Problem: 3483. Unique 3-Digit Even Numbers
 Link: https://leetcode.com/problems/unique-3-digit-even-numbers/
 Date Solved: 2026-09-11
 Difficulty: Easy
