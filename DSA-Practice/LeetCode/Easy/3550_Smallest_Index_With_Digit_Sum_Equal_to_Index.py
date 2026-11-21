@@ -1,5 +1,5 @@
 """
-Problem: Smallest Index With Digit Sum Equal to Index
+Problem: 3550. Smallest Index With Digit Sum Equal to Index
 Link: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
 Platform: LeetCode (Daily Question)
 Date: 2026-09-24
