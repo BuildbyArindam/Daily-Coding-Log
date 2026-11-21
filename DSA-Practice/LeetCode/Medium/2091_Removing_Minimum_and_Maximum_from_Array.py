@@ -1,5 +1,5 @@
 """
-Problem: Removing Minimum and Maximum From Array
+Problem: 2091. Removing Minimum and Maximum From Array
 Platform: LeetCode
 Link: https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 Date Solved: 2026-08-31
