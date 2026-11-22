@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C775+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C776+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1775-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1776-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-18%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-99-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-337-f85149?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Python-1515-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-1516-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/C++-117-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-31-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,775** | **742** | **640** | **337** | **99** | **81 days** |
+| **1,776** | **743** | **640** | **337** | **99** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 22 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -56,7 +56,7 @@
 | 🟢 GeeksforGeeks | **1** day | **71** days | 74 | 22 Nov 2026 |
 | 🔵 Codeforces | **0** days | **9** days | 25 | 11 Sep 2026 |
 | 🟤 CodeChef | **0** days | **35** days | 71 | 28 Oct 2026 |
-| 🟣 HackerEarth | **0** days | **40** days | 75 | 02 Nov 2026 |
+| 🟣 HackerEarth | **1** day | **40** days | 76 | 22 Nov 2026 |
 | 🟡 Unstop | **16** days | **37** days | 88 | 21 Nov 2026 |
 | 🧡 Coding Ninjas (Code360) | **0** days | **7** days | 25 | 03 Oct 2026 |
 | ⚪ freeCodeCamp | **0** days | **14** days | 20 | 19 Sep 2026 |
@@ -74,7 +74,7 @@
 Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
-    ├── HackerEarth/     # 369 solutions
+    ├── HackerEarth/     # 370 solutions
     ├── LeetCode/        # 236 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
@@ -92,14 +92,14 @@ Daily-Coding-Log/
 | Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `████░░░░░░░░` 29% | 142 | 194 | 160 | 137 | 29 |
-| [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **369** | `██░░░░░░░░░░` 21% | 154 | 220 | 121 | 15 | 13 |
+| [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **370** | `██░░░░░░░░░░` 21% | 154 | 221 | 121 | 15 | 13 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **236** | `██░░░░░░░░░░` 13% | 1,599 | 75 | 90 | 71 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **90** | `█░░░░░░░░░░░` 5% | 668 | 10 | 47 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **75** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 42 | 12 | 2 |
-| **Total** | **1,775** | | | **742** | **640** | **337** | **56** |
+| **Total** | **1,776** | | | **743** | **640** | **337** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -107,7 +107,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
-    "Easy" : 742
+    "Easy" : 743
     "Medium" : 640
     "Hard" : 337
     "Unrated" : 56
@@ -126,10 +126,10 @@ pie showData title Difficulty distribution (all platforms)
 | Implementation & Simulation | **555** | `████████████████████████` |
 | Arrays & Prefix Sums | **475** | `█████████████████████░░░` |
 | Math & Number Theory | **435** | `███████████████████░░░░░` |
-| Sorting & Searching | **371** | `████████████████░░░░░░░░` |
+| Sorting & Searching | **372** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **267** | `████████████░░░░░░░░░░░░` |
 | Strings | **240** | `██████████░░░░░░░░░░░░░░` |
-| Greedy | **231** | `██████████░░░░░░░░░░░░░░` |
+| Greedy | **232** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **213** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **174** | `████████░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **169** | `███████░░░░░░░░░░░░░░░░░` |
@@ -191,6 +191,7 @@ pie showData title Difficulty distribution (all platforms)
 | Date | Platform | Problem | Difficulty | Solution |
 |:--|:--|:--|:--:|:--:|
 | 2026-11-22 | GeeksforGeeks | Longest Subarray Sum Divisible by K | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Longest_Subarray_Sum_Divisible_by_K.py) |
+| 2026-11-22 | HackerEarth | Double Beauty | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Double_Beauty.py) |
 | 2026-11-22 | LeetCode | 879 Profitable Schemes | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/879_Profitable_Schemes.java) |
 | 2026-11-22 | LeetCode | 839 Similar String Groups | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/839_Similar_String_Groups.cpp) |
 | 2026-11-22 | LeetCode | 2360 Longest Cycle in a Graph | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2360_Longest_Cycle_in_a_Graph.cpp) |
@@ -204,14 +205,13 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-21 | LeetCode | 992 Subarrays with K Different Integers | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/992_Subarrays_with_K_Different_Integers.cpp) |
 | 2026-11-21 | LeetCode | 956 Tallest Billboard | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/956_Tallest_Billboard.cpp) |
 | 2026-11-21 | LeetCode | 920 Number of Music Playlists | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/920_Number_of_Music_Playlists.cpp) |
-| 2026-11-21 | LeetCode | 864 Shortest Path to Get All Keys | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/864_Shortest_Path_to_Get_All_Keys.cpp) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,775** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,776** so far)
 - [ ] Reach 3,000 solutions in this repo
 - [ ] Upload 500 LeetCode solutions (**236** so far)
 - [ ] Solve 500 Hard problems across platforms (**337** so far)
