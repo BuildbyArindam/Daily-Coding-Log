@@ -34,7 +34,11 @@ PLATFORM_TOTALS = {  # solved on the site itself (manual; update occasionally)
     "HackerEarth": 154, "Unstop": 668, "Code360": 111, "FreeCodeCamp": 300,
 }
 NOTE = "_HackerRank (400 solved on the site) has no folder in this repo yet._"
-GOAL_TARGET = 1500  # solutions-in-repo goal shown in the Goals list
+HOF_SIZE = 10           # rows in the "other platforms" Hall of Fame
+HOF_PER_PLATFORM = 2    # max rows per platform there (set equal to HOF_SIZE to disable the cap)
+MANUAL_GOALS = [        # goals the script cannot check by itself: (done?, text)
+    (False, "Take part in at least one live contest every week (LeetCode / Codeforces / CodeChef)"),
+]
 # -----------------------------------------------------------------------
 
 CATS = [
@@ -56,6 +60,13 @@ CATS = [
     ("Design / OOP / SQL", r"solid|oop|design|sql|class|database|query"),
 ]
 FOLDER_DIFFS = {"easy", "medium", "hard"}  # folder names treated as a difficulty
+ADV_TOPICS = re.compile(
+    r"persistent|segment tree|lazy|fenwick|suffix (?:array|automaton|tree)|\bfft\b|\bntt\b|network flow|"
+    r"max(?:imum)?.?flow|min.?cost|dinic|bipartite|matching|centroid|\bhld\b|heavy.light|convex hull|"
+    r"\bmo'?s\b|bitmask|digit dp|\btrie\b|sparse table|sqrt decomposition|square root decomposition|\blca\b|"
+    r"divide and conquer|meet in the middle|inclusion.exclusion|matrix exponent|game theory|link.cut|treap|"
+    r"splay|z.function|\bkmp\b|manacher|aho|\bscc\b|strongly connected|articulation|2.sat|polynomial|"
+    r"generating function|mobius|dsu on tree|kruskal reconstruction", re.I)
 CODE_EXT = {".py", ".js", ".java", ".cpp", ".c", ".sql", ".ts", ".go", ".rs", ".kt", ".cs"}
 
 
@@ -117,9 +128,34 @@ def read_rows():
                 if plat == "Codeforces":
                     m = re.search(r"\*(\d{3,4})", head)
                     cf = rating_of(diff) or (int(m.group(1)) if m else None)
+                rate = int(mm.group(1)) if (mm := re.fullmatch(r"\*?(\d{3,4})", diff)) else None
                 rows.append(dict(plat=plat, file=f, rel=rel, date=dm.group(1) if dm else "", cats=cats,
-                                 nd=normalise(plat, diff, head), cf=cf))
+                                 nd=normalise(plat, diff, head), cf=cf, rate=rate, topics=topics))
     return rows
+
+
+def hof_score(r):
+    """Difficulty score used to rank problems across platforms.
+    A numeric site rating (CodeChef) is used as-is; a plain 'Hard' label starts at 1900
+    and gains +100 per advanced technique in the topic list (segment tree, FFT, flow ... up to +400)."""
+    if r["rate"]: return r["rate"]
+    return 1900 + 100 * min(len({m.group(0).lower() for m in ADV_TOPICS.finditer(r["topics"])}), 4)
+
+
+def streaks(date_strs, today=None):
+    """-> (current streak, longest streak, active days, last solved date or None)."""
+    today = today or dt.date.today()
+    ds = sorted({dt.date.fromisoformat(x) for x in date_strs if x})
+    if not ds: return 0, 0, 0, None
+    best = cur = 1
+    for a, b in zip(ds, ds[1:]):
+        cur = cur + 1 if (b - a).days == 1 else 1
+        best = max(best, cur)
+    run, have = 0, set(ds)
+    day = today if today in have else today - dt.timedelta(days=1)
+    while day in have:
+        run += 1; day -= dt.timedelta(days=1)
+    return run, best, len(ds), ds[-1]
 
 
 def bar(v, t, w=20):
@@ -158,11 +194,11 @@ def build(rows):
 ![Active](https://img.shields.io/badge/Active%20Days-{len(dates)}-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-{dif["Hard"]}-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-{langs[".py"]}-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-{langs[".js"]}-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-{langs[".java"]}-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-{langs[".sql"]}-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-{langs[".cpp"]}-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Python-{langs[".py"]}-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-{langs[".cpp"]}-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/JavaScript-{langs[".js"]}-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Java-{langs[".java"]}-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/SQL-{langs[".sql"]}-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
 
 </div>
 
@@ -187,6 +223,12 @@ def build(rows):
     for p in PROFILES:
         lab, h, url = PROFILES[p]; w(f"| {lab} | `{h}` | [Visit]({url}) |")
     for lab, h, url in EXTRA_PROFILES: w(f"| {lab} | `{h}` | [Visit]({url}) |")
+    w("\n### 🔥 Streaks by Platform\n\n<sub>Counted from the dated solution files in this repo, so they update automatically.</sub>\n")
+    w("| Platform | 🔥 Current | 🏆 Longest | 📅 Active days | 🕒 Last solved |\n|:--|--:|--:|--:|:--:|")
+    for p in PROFILES:
+        c_, l_, a_, last = streaks([r["date"] for r in rows if r["plat"] == p])
+        pl = lambda n: f"**{n}** day" + ("" if n == 1 else "s")
+        w(f"| {PROFILES[p][0]} | {pl(c_)} | {pl(l_)} | {a_} | {last:%d %b %Y} |" if last else f"| {PROFILES[p][0]} | – | – | 0 | – |")
     w('''
 <img src="https://leetcode-stats-six.vercel.app/?username=0Arindam0_&theme=dark" height="170"/>
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahapatraarindam4&theme=dark" height="170"/>
@@ -243,23 +285,50 @@ Daily-Coding-Log/
         for r in sorted(cf, key=lambda r: -r["cf"])[:8]:
             nm = re.sub(r"^\d+[A-Z]?\d?[-_]", "", os.path.splitext(r["file"])[0]).replace("_", " ").replace("-", " ")
             w(f"| ⭐ **{r['cf']}** | {nm} | [Code]({BASE}Codeforces/{quote(r['rel'])}) |")
+    cands = sorted((r for r in rows if r["plat"] != "Codeforces" and r["nd"] == "Hard"),
+                   key=lambda r: (-hof_score(r), -len(r["topics"].split(",")), r["plat"], r["file"]))
+    taken, hof = collections.Counter(), []
+    for r in cands:
+        if len(hof) == HOF_SIZE: break
+        if taken[r["plat"]] < HOF_PER_PLATFORM:
+            taken[r["plat"]] += 1; hof.append(r)
+    if hof:
+        w(f"\n---\n\n## 🌍 Hall of Fame: Hardest Solved on Other Platforms\n\n> Top {HOF_SIZE} outside Codeforces (max {HOF_PER_PLATFORM} per platform). "
+          "Ranked by a difficulty score: the site rating where one exists (CodeChef), otherwise the **Hard** label plus a bonus for advanced techniques in the topic list (segment tree, FFT, flow, persistent structures...).\n\n"
+          "| # | Platform | Problem | Level | Key techniques | Solution |\n|:--:|:--|:--|:--:|:--|:--:|")
+        for i, r in enumerate(hof, 1):
+            nm = os.path.splitext(r["file"])[0].replace("_", " ")
+            tp = [t.strip() for t in re.sub(r"\s*\([^)]*\)", "", r["topics"]).replace("|", "/").split(",") if t.strip()]
+            lvl = f"⭐ **{r['rate']}**" if r["rate"] else "🔴 Hard"
+            w(f"| {i} | {r['plat']} | {nm} | {lvl} | {', '.join(tp[:3]) or '–'} | [Code]({BASE}{r['plat']}/{quote(r['rel'])}) |")
     icon = {"Easy": "🟢", "Medium": "🟡", "Hard": "🔴", "Unrated": "⚪"}
     w("\n---\n\n## 📅 Recent Activity (latest solves)\n\n| Date | Platform | Problem | Difficulty | Solution |\n|:--|:--|:--|:--:|:--:|")
     for r in sorted([r for r in rows if r["date"]], key=lambda r: (r["date"], r["file"]), reverse=True)[:15]:
         nm = os.path.splitext(r["file"])[0].replace("_", " ")
         w(f"| {r['date']} | {r['plat']} | {nm} | {icon[r['nd']]} {r['nd']} | [Code]({BASE}{r['plat']}/{quote(r['rel'])}) |")
     tick = lambda ok: "x" if ok else " "
+    cf_max = max((r["cf"] for r in cf), default=0)
+    low_p = min(PROFILES, key=lambda p: cnt[p])
+    goals = [
+        (N >= 1000, "Reach 1,000 solutions in this repo"),
+        (N >= 2000, f"Reach 2,000 solutions in this repo (**{N:,}** so far)"),
+        (N >= 3000, "Reach 3,000 solutions in this repo"),
+        (cnt["LeetCode"] >= 500, f"Upload 500 LeetCode solutions (**{cnt['LeetCode']}** so far)"),
+        (dif["Hard"] >= 500, f"Solve 500 Hard problems across platforms (**{dif['Hard']}** so far)"),
+        (all(cnt[p] >= 100 for p in PROFILES), f"Every platform folder at 100+ solutions (lowest: **{low_p}** with {cnt[low_p]})"),
+        (len(plats) >= 9, f"Practise on 9+ platforms by adding a HackerRank folder (**{len(plats)}** now)"),
+        (cf_max >= 3000, f"Solve a Codeforces problem rated 3000+ (hardest so far: **{cf_max}**)"),
+        (streak >= 30, f"Keep a 30-day streak (current: **{streak}** days)"),
+        (streak >= 100, "Keep a 100-day streak"),
+        (len(dates) >= 200, f"Be active on 200 different days (**{len(dates)}** so far)"),
+    ] + list(MANUAL_GOALS)
+    goals_md = "\n".join(f"- [{tick(ok)}] {txt}" for ok, txt in goals)
     w(f'''
 ---
 
 ## 🎯 Goals
 
-- [{tick(N >= 100)}] Reach 100 solutions in this repo
-- [{tick(N >= 300)}] Reach 300 solutions in this repo
-- [{tick(len(plats) >= 8)}] Solve problems on 8+ platforms
-- [{tick(any(r["cf"] and r["cf"] >= 2400 for r in cf))}] Solve Codeforces problems rated 2400+
-- [{tick(streak >= 100)}] Keep a 100-day streak (current: **{streak}** days)
-- [{tick(N >= GOAL_TARGET)}] Reach {GOAL_TARGET:,} solutions in this repo (**{N:,}** so far)
+{goals_md}
 
 ---
 
