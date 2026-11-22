@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C765+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C766+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1765-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1766-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-18%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-99-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-329-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-330-f85149?style=for-the-badge)
 
 <img src="https://img.shields.io/badge/Python-1513-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/C++-109-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-110-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-31-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/SQL-39-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,765** | **741** | **639** | **329** | **99** | **81 days** |
+| **1,766** | **741** | **639** | **330** | **99** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 22 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -75,7 +75,7 @@ Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
     ├── HackerEarth/     # 369 solutions
-    ├── LeetCode/        # 227 solutions
+    ├── LeetCode/        # 228 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
@@ -93,13 +93,13 @@ Daily-Coding-Log/
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `████░░░░░░░░` 29% | 142 | 194 | 160 | 137 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **369** | `███░░░░░░░░░` 21% | 154 | 220 | 121 | 15 | 13 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **227** | `██░░░░░░░░░░` 13% | 1,599 | 74 | 90 | 63 | 0 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **228** | `██░░░░░░░░░░` 13% | 1,599 | 74 | 90 | 64 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **90** | `█░░░░░░░░░░░` 5% | 668 | 10 | 47 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **74** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 41 | 12 | 2 |
-| **Total** | **1,765** | | | **741** | **639** | **329** | **56** |
+| **Total** | **1,766** | | | **741** | **639** | **330** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -109,7 +109,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 741
     "Medium" : 639
-    "Hard" : 329
+    "Hard" : 330
     "Unrated" : 56
 ```
 
@@ -128,11 +128,11 @@ pie showData title Difficulty distribution (all platforms)
 | Math & Number Theory | **435** | `███████████████████░░░░░` |
 | Sorting & Searching | **368** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **265** | `███████████░░░░░░░░░░░░░` |
-| Strings | **235** | `██████████░░░░░░░░░░░░░░` |
+| Strings | **236** | `██████████░░░░░░░░░░░░░░` |
 | Greedy | **230** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **213** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **174** | `████████░░░░░░░░░░░░░░░░` |
-| Dynamic Programming | **164** | `███████░░░░░░░░░░░░░░░░░` |
+| Dynamic Programming | **165** | `███████░░░░░░░░░░░░░░░░░` |
 | Graphs | **156** | `███████░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **132** | `██████░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **94** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -192,6 +192,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|:--|:--|:--:|:--:|
 | 2026-11-22 | LeetCode | 879 Profitable Schemes | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/879_Profitable_Schemes.java) |
 | 2026-11-22 | LeetCode | 2218 Maximum Value of K Coins From Piles | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2218_Maximum_Value_of_K_Coins_From_Piles.cpp) |
+| 2026-11-22 | LeetCode | 1312 Minimum Insertion Steps to Make a String Palindrome | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1312_Minimum_Insertion_Steps_to_Make_a_String_Palindrome.cpp) |
 | 2026-11-21 | Unstop | Gallery Turnstile Ledger | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Gallery_Turnstile_Ledger.py) |
 | 2026-11-21 | LeetCode | 992 Subarrays with K Different Integers | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/992_Subarrays_with_K_Different_Integers.cpp) |
 | 2026-11-21 | LeetCode | 956 Tallest Billboard | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/956_Tallest_Billboard.cpp) |
@@ -204,17 +205,16 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-21 | LeetCode | 2272 Substring With Largest Variance | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2272_Substring_With_Largest_Variance.cpp) |
 | 2026-11-21 | LeetCode | 1964 Find the Longest Valid Obstacle Course at Each Position | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1964_Find_the_Longest_Valid_Obstacle_Course_at_Each_Position.cpp) |
 | 2026-11-21 | LeetCode | 1799 Maximize Score After N Operations | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1799_Maximize_Score_After_N_Operations.cpp) |
-| 2026-11-21 | LeetCode | 1575 Count All Possible Routes | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1575_Count_All_Possible_Routes.java) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,765** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,766** so far)
 - [ ] Reach 3,000 solutions in this repo
-- [ ] Upload 500 LeetCode solutions (**227** so far)
-- [ ] Solve 500 Hard problems across platforms (**329** so far)
+- [ ] Upload 500 LeetCode solutions (**228** so far)
+- [ ] Solve 500 Hard problems across platforms (**330** so far)
 - [ ] Every platform folder at 100+ solutions (lowest: **GeeksforGeeks** with 74)
 - [ ] Practise on 9+ platforms by adding a HackerRank folder (**8** now)
 - [ ] Solve a Codeforces problem rated 3000+ (hardest so far: **2800**)
