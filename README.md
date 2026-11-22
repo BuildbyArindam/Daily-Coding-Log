@@ -10,11 +10,11 @@
 ![Active](https://img.shields.io/badge/Active%20Days-98-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-327-f85149?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-1513-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-73-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-30-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-39-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-108-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Python-1513-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-108-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Java-30-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/SQL-39-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
 
 </div>
 
@@ -45,6 +45,21 @@
 | 🧡 Coding Ninjas (Code360) | `Profile` | [Visit](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) |
 | ⚪ freeCodeCamp | `Profile` | [Visit](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) |
 | 🟩 HackerRank | `mahapatraarinda1` | [Visit](http://www.hackerrank.com/profile/mahapatraarinda1) |
+
+### 🔥 Streaks by Platform
+
+<sub>Counted from the dated solution files in this repo, so they update automatically.</sub>
+
+| Platform | 🔥 Current | 🏆 Longest | 📅 Active days | 🕒 Last solved |
+|:--|--:|--:|--:|:--:|
+| 🟠 LeetCode | **1** day | **49** days | 65 | 21 Nov 2026 |
+| 🟢 GeeksforGeeks | **0** days | **71** days | 73 | 27 Oct 2026 |
+| 🔵 Codeforces | **0** days | **9** days | 25 | 11 Sep 2026 |
+| 🟤 CodeChef | **0** days | **35** days | 71 | 28 Oct 2026 |
+| 🟣 HackerEarth | **0** days | **40** days | 75 | 02 Nov 2026 |
+| 🟡 Unstop | **16** days | **37** days | 88 | 21 Nov 2026 |
+| 🧡 Coding Ninjas (Code360) | **0** days | **7** days | 25 | 03 Oct 2026 |
+| ⚪ freeCodeCamp | **0** days | **14** days | 20 | 19 Sep 2026 |
 
 <img src="https://leetcode-stats-six.vercel.app/?username=0Arindam0_&theme=dark" height="170"/>
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahapatraarindam4&theme=dark" height="170"/>
@@ -152,6 +167,25 @@ pie showData title Difficulty distribution (all platforms)
 
 ---
 
+## 🌍 Hall of Fame: Hardest Solved on Other Platforms
+
+> Top 10 outside Codeforces (max 2 per platform). Ranked by a difficulty score: the site rating where one exists (CodeChef), otherwise the **Hard** label plus a bonus for advanced techniques in the topic list (segment tree, FFT, flow, persistent structures...).
+
+| # | Platform | Problem | Level | Key techniques | Solution |
+|:--:|:--|:--|:--:|:--|:--:|
+| 1 | CodeChef | AVOIDINGM2 Avoiding M Hard | ⭐ **2322** | Combinatorics, Inclusion-Exclusion, FFT/NTT-style Convolution | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/AVOIDINGM2_Avoiding_M_Hard.py) |
+| 2 | CodeChef | LEREO Learning Resource Optimization | ⭐ **2316** | Dynamic Programming, Grouped Knapsack | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/CodeChef/LEREO_Learning_Resource_Optimization.py) |
+| 3 | HackerEarth | Prefix and Substring Queries | 🔴 Hard | KMP, Trees, HLD | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Prefix_and_Substring_Queries.py) |
+| 4 | Unstop | Live Wire Junctions | 🔴 Hard | Tree, Heavy-Light Decomposition, Fenwick Tree | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Live_Wire_Junctions.py) |
+| 5 | Unstop | The Exposure Ledger | 🔴 Hard | Persistent Segment Tree, Fenwick Tree, Coordinate Compression | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/The_Exposure_Ledger.py) |
+| 6 | HackerEarth | Puzzled Grid | 🔴 Hard | Kruskal Reconstruction Tree, DSU, Binary Lifting | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Puzzled_Grid.py) |
+| 7 | LeetCode | 1569 Number of Ways to Reorder Array to Get Same BST | 🔴 Hard | Array, Math, Divide and Conquer | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.py) |
+| 8 | LeetCode | 1872 Stone Game VIII | 🔴 Hard | Array, Math, DP | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1872_Stone_Game_VIII.py) |
+| 9 | Code360 | Ninja and the Nested Ranges II | 🔴 Hard | Fenwick Tree / BIT, Coordinate Compression, Offline Query Processing | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Ninja_and_the_Nested_Ranges_II.py) |
+| 10 | Code360 | Kth Element of Two Sorted Arrays | 🔴 Hard | Binary Search on Partitions, Arrays, Divide and Conquer | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Code360/Kth_Element_of_Two_Sorted_Arrays.py) |
+
+---
+
 ## 📅 Recent Activity (latest solves)
 
 | Date | Platform | Problem | Difficulty | Solution |
@@ -176,12 +210,18 @@ pie showData title Difficulty distribution (all platforms)
 
 ## 🎯 Goals
 
-- [x] Reach 100 solutions in this repo
-- [x] Reach 300 solutions in this repo
-- [x] Solve problems on 8+ platforms
-- [x] Solve Codeforces problems rated 2400+
-- [ ] Keep a 100-day streak (current: **17** days)
-- [x] Reach 1,500 solutions in this repo (**1,763** so far)
+- [x] Reach 1,000 solutions in this repo
+- [ ] Reach 2,000 solutions in this repo (**1,763** so far)
+- [ ] Reach 3,000 solutions in this repo
+- [ ] Upload 500 LeetCode solutions (**225** so far)
+- [ ] Solve 500 Hard problems across platforms (**327** so far)
+- [ ] Every platform folder at 100+ solutions (lowest: **GeeksforGeeks** with 74)
+- [ ] Practise on 9+ platforms by adding a HackerRank folder (**8** now)
+- [ ] Solve a Codeforces problem rated 3000+ (hardest so far: **2800**)
+- [ ] Keep a 30-day streak (current: **17** days)
+- [ ] Keep a 100-day streak
+- [ ] Be active on 200 different days (**98** so far)
+- [ ] Take part in at least one live contest every week (LeetCode / Codeforces / CodeChef)
 
 ---
 
@@ -189,7 +229,7 @@ pie showData title Difficulty distribution (all platforms)
 
 *Consistency over intensity — one problem at a time.* 🚀
 
-<sub>Last auto-updated: 21 Nov 2026 by <code>scripts/update_readme.py</code></sub>
+<sub>Last auto-updated: 22 Nov 2026 by <code>scripts/update_readme.py</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
