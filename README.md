@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C811+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C812+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1811-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1812-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-20%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-101-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-364-f85149?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Python-1525-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-1526-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/C++-142-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-32-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,811** | **746** | **645** | **364** | **101** | **81 days** |
+| **1,812** | **747** | **645** | **364** | **101** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 24 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -56,7 +56,7 @@
 | 🟢 GeeksforGeeks | **3** days | **71** days | 76 | 24 Nov 2026 |
 | 🔵 Codeforces | **0** days | **9** days | 25 | 11 Sep 2026 |
 | 🟤 CodeChef | **0** days | **35** days | 71 | 28 Oct 2026 |
-| 🟣 HackerEarth | **2** days | **40** days | 77 | 23 Nov 2026 |
+| 🟣 HackerEarth | **3** days | **40** days | 78 | 24 Nov 2026 |
 | 🟡 Unstop | **19** days | **37** days | 91 | 24 Nov 2026 |
 | 🧡 Coding Ninjas (Code360) | **0** days | **7** days | 25 | 03 Oct 2026 |
 | ⚪ freeCodeCamp | **0** days | **14** days | 20 | 19 Sep 2026 |
@@ -74,7 +74,7 @@
 Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
-    ├── HackerEarth/     # 371 solutions
+    ├── HackerEarth/     # 372 solutions
     ├── LeetCode/        # 265 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
@@ -92,14 +92,14 @@ Daily-Coding-Log/
 | Platform | In repo | Share | Platform total | 🟢 Easy | 🟡 Medium | 🔴 Hard | ⚪ Unrated |
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `███░░░░░░░░░` 29% | 142 | 194 | 160 | 137 | 29 |
-| [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **371** | `██░░░░░░░░░░` 20% | 154 | 222 | 121 | 15 | 13 |
+| [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **372** | `██░░░░░░░░░░` 21% | 154 | 223 | 121 | 15 | 13 |
 | [LeetCode](https://leetcode.com/u/0Arindam0_/) | **265** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 98 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **93** | `█░░░░░░░░░░░` 5% | 668 | 11 | 49 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **77** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 44 | 12 | 2 |
-| **Total** | **1,811** | | | **746** | **645** | **364** | **56** |
+| **Total** | **1,812** | | | **747** | **645** | **364** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -107,7 +107,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
-    "Easy" : 746
+    "Easy" : 747
     "Medium" : 645
     "Hard" : 364
     "Unrated" : 56
@@ -123,13 +123,13 @@ pie showData title Difficulty distribution (all platforms)
 
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
-| Implementation & Simulation | **557** | `████████████████████████` |
+| Implementation & Simulation | **558** | `████████████████████████` |
 | Arrays & Prefix Sums | **488** | `█████████████████████░░░` |
 | Math & Number Theory | **441** | `███████████████████░░░░░` |
 | Sorting & Searching | **380** | `████████████████░░░░░░░░` |
-| Hashing & Maps | **276** | `████████████░░░░░░░░░░░░` |
+| Hashing & Maps | **277** | `████████████░░░░░░░░░░░░` |
 | Strings | **253** | `███████████░░░░░░░░░░░░░` |
-| Greedy | **239** | `██████████░░░░░░░░░░░░░░` |
+| Greedy | **240** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **216** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **183** | `████████░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **179** | `████████░░░░░░░░░░░░░░░░` |
@@ -192,6 +192,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|:--|:--|:--:|:--:|
 | 2026-11-24 | Unstop | Whispers of the Camera Traps | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Whispers_of_the_Camera_Traps.py) |
 | 2026-11-24 | GeeksforGeeks | Two Pairs with Same Sum | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Two_Pairs_with_Same_Sum.py) |
+| 2026-11-24 | HackerEarth | Too Chocolatey | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Too_Chocolatey.py) |
 | 2026-11-24 | LeetCode | 632 Smallest Range Covering Elements from K Lists | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/632_Smallest_Range_Covering_Elements_from_K_Lists.cpp) |
 | 2026-11-24 | LeetCode | 564 Find the Closest Palindrome | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/564_Find_the_Closest_Palindrome.cpp) |
 | 2026-11-24 | LeetCode | 3411 Maximum Subarray With Equal Products | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Easy/3411_Maximum_Subarray_With_Equal_Products.py) |
@@ -204,14 +205,13 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-23 | LeetCode | 995 Minimum Number of K Consecutive Bit Flips | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/995_Minimum_Number_of_K_Consecutive_Bit_Flips.cpp) |
 | 2026-11-23 | LeetCode | 857 Minimum Cost to Hire K Workers | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/857_Minimum_Cost_to_Hire_K_Workers.cpp) |
 | 2026-11-23 | LeetCode | 726 Number of Atoms | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/726_Number_of_Atoms.cpp) |
-| 2026-11-23 | LeetCode | 719 Find K-th Smallest Pair Distance | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/719_Find_K-th_Smallest_Pair_Distance.cpp) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,811** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,812** so far)
 - [ ] Reach 3,000 solutions in this repo
 - [ ] Upload 500 LeetCode solutions (**265** so far)
 - [ ] Solve 500 Hard problems across platforms (**364** so far)
