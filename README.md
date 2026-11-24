@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C808+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C809+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1808-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1809-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-20%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-101-3fb950?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard%20Solved-364-f85149?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Python-1522-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-1523-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/C++-142-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-32-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,808** | **745** | **643** | **364** | **101** | **81 days** |
+| **1,809** | **746** | **643** | **364** | **101** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 24 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -75,7 +75,7 @@ Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
     ├── HackerEarth/     # 371 solutions
-    ├── LeetCode/        # 264 solutions
+    ├── LeetCode/        # 265 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
@@ -93,13 +93,13 @@ Daily-Coding-Log/
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `███░░░░░░░░░` 29% | 142 | 194 | 160 | 137 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **371** | `██░░░░░░░░░░` 21% | 154 | 222 | 121 | 15 | 13 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **264** | `██░░░░░░░░░░` 15% | 1,599 | 75 | 91 | 98 | 0 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **265** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 98 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **92** | `█░░░░░░░░░░░` 5% | 668 | 11 | 48 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **76** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 43 | 12 | 2 |
-| **Total** | **1,808** | | | **745** | **643** | **364** | **56** |
+| **Total** | **1,809** | | | **746** | **643** | **364** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -107,7 +107,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 
 ```mermaid
 pie showData title Difficulty distribution (all platforms)
-    "Easy" : 745
+    "Easy" : 746
     "Medium" : 643
     "Hard" : 364
     "Unrated" : 56
@@ -124,8 +124,8 @@ pie showData title Difficulty distribution (all platforms)
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
 | Implementation & Simulation | **557** | `████████████████████████` |
-| Arrays & Prefix Sums | **487** | `█████████████████████░░░` |
-| Math & Number Theory | **440** | `███████████████████░░░░░` |
+| Arrays & Prefix Sums | **488** | `█████████████████████░░░` |
+| Math & Number Theory | **441** | `███████████████████░░░░░` |
 | Sorting & Searching | **379** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **274** | `████████████░░░░░░░░░░░░` |
 | Strings | **253** | `███████████░░░░░░░░░░░░░` |
@@ -134,7 +134,7 @@ pie showData title Difficulty distribution (all platforms)
 | Stacks, Queues & Heaps | **182** | `████████░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **179** | `████████░░░░░░░░░░░░░░░░` |
 | Graphs | **166** | `███████░░░░░░░░░░░░░░░░░` |
-| Two Pointers & Sliding Window | **136** | `██████░░░░░░░░░░░░░░░░░░` |
+| Two Pointers & Sliding Window | **137** | `██████░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **99** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **95** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Bit Manipulation | **92** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -192,6 +192,7 @@ pie showData title Difficulty distribution (all platforms)
 |:--|:--|:--|:--:|:--:|
 | 2026-11-24 | LeetCode | 632 Smallest Range Covering Elements from K Lists | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/632_Smallest_Range_Covering_Elements_from_K_Lists.cpp) |
 | 2026-11-24 | LeetCode | 564 Find the Closest Palindrome | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/564_Find_the_Closest_Palindrome.cpp) |
+| 2026-11-24 | LeetCode | 3411 Maximum Subarray With Equal Products | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Easy/3411_Maximum_Subarray_With_Equal_Products.py) |
 | 2026-11-24 | LeetCode | 2246 Longest Path With Different Adjacent Characters | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2246_Longest_Path_With_Different_Adjacent_Characters.java) |
 | 2026-11-24 | LeetCode | 1671 Minimum Number of Removals to Make Mountain Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.cpp) |
 | 2026-11-24 | LeetCode | 1106 Parsing A Boolean Expression | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1106_Parsing_A_Boolean_Expression.cpp) |
@@ -204,16 +205,15 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-23 | LeetCode | 719 Find K-th Smallest Pair Distance | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/719_Find_K-th_Smallest_Pair_Distance.cpp) |
 | 2026-11-23 | LeetCode | 664 Strange Printer | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/664_Strange_Printer.cpp) |
 | 2026-11-23 | LeetCode | 552 Student Attendance Record II | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/552_Student_Attendance_Record_II.cpp) |
-| 2026-11-23 | LeetCode | 52 N Queens II | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/52_N_Queens_II.cpp) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,808** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,809** so far)
 - [ ] Reach 3,000 solutions in this repo
-- [ ] Upload 500 LeetCode solutions (**264** so far)
+- [ ] Upload 500 LeetCode solutions (**265** so far)
 - [ ] Solve 500 Hard problems across platforms (**364** so far)
 - [ ] Every platform folder at 100+ solutions (lowest: **GeeksforGeeks** with 76)
 - [ ] Practise on 9+ platforms by adding a HackerRank folder (**8** now)
