@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C821+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C822+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1821-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1822-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-21%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-102-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-373-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-374-f85149?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Python-1527-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-1528-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/C++-150-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-32-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,821** | **747** | **645** | **373** | **102** | **81 days** |
+| **1,822** | **747** | **645** | **374** | **102** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 25 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -75,7 +75,7 @@ Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
     ├── HackerEarth/     # 372 solutions
-    ├── LeetCode/        # 274 solutions
+    ├── LeetCode/        # 275 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
@@ -93,13 +93,13 @@ Daily-Coding-Log/
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `███░░░░░░░░░` 29% | 142 | 194 | 160 | 137 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **372** | `██░░░░░░░░░░` 20% | 154 | 223 | 121 | 15 | 13 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **274** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 107 | 0 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **275** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 108 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **93** | `█░░░░░░░░░░░` 5% | 668 | 11 | 49 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **77** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 44 | 12 | 2 |
-| **Total** | **1,821** | | | **747** | **645** | **373** | **56** |
+| **Total** | **1,822** | | | **747** | **645** | **374** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -109,7 +109,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 747
     "Medium" : 645
-    "Hard" : 373
+    "Hard" : 374
     "Unrated" : 56
 ```
 
@@ -127,14 +127,14 @@ pie showData title Difficulty distribution (all platforms)
 | Arrays & Prefix Sums | **493** | `█████████████████████░░░` |
 | Math & Number Theory | **441** | `███████████████████░░░░░` |
 | Sorting & Searching | **381** | `████████████████░░░░░░░░` |
-| Hashing & Maps | **278** | `████████████░░░░░░░░░░░░` |
-| Strings | **254** | `███████████░░░░░░░░░░░░░` |
+| Hashing & Maps | **279** | `████████████░░░░░░░░░░░░` |
+| Strings | **255** | `███████████░░░░░░░░░░░░░` |
 | Greedy | **241** | `██████████░░░░░░░░░░░░░░` |
 | Trees | **218** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **186** | `████████░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **182** | `████████░░░░░░░░░░░░░░░░` |
 | Graphs | **171** | `███████░░░░░░░░░░░░░░░░░` |
-| Two Pointers & Sliding Window | **139** | `██████░░░░░░░░░░░░░░░░░░` |
+| Two Pointers & Sliding Window | **140** | `██████░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **99** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **95** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Bit Manipulation | **92** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -194,6 +194,7 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-25 | LeetCode | 834 Sum of Distances in Tree | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/834_Sum_of_Distances_in_Tree.cpp) |
 | 2026-11-25 | LeetCode | 828 Count Unique Characters of All Substrings of a Given String | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/828_Count_Unique_Characters_of_All_Substrings_of_a_Given_String.py) |
 | 2026-11-25 | LeetCode | 773 Sliding Puzzle | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/773_Sliding_Puzzle.cpp) |
+| 2026-11-25 | LeetCode | 2953 Count Complete Substrings | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2953_Count_Complete_Substrings.py) |
 | 2026-11-25 | LeetCode | 2577 Minimum Time to Visit a Cell In a Grid | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.cpp) |
 | 2026-11-25 | LeetCode | 2097 Valid Arrangement of Pairs | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2097_Valid_Arrangement_of_Pairs.cpp) |
 | 2026-11-25 | LeetCode | 1675 Minimize Deviation in Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1675_Minimize_Deviation_in_Array.cpp) |
@@ -204,17 +205,16 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-24 | LeetCode | 564 Find the Closest Palindrome | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/564_Find_the_Closest_Palindrome.cpp) |
 | 2026-11-24 | LeetCode | 3411 Maximum Subarray With Equal Products | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Easy/3411_Maximum_Subarray_With_Equal_Products.py) |
 | 2026-11-24 | LeetCode | 2246 Longest Path With Different Adjacent Characters | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2246_Longest_Path_With_Different_Adjacent_Characters.java) |
-| 2026-11-24 | LeetCode | 1671 Minimum Number of Removals to Make Mountain Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.cpp) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,821** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,822** so far)
 - [ ] Reach 3,000 solutions in this repo
-- [ ] Upload 500 LeetCode solutions (**274** so far)
-- [ ] Solve 500 Hard problems across platforms (**373** so far)
+- [ ] Upload 500 LeetCode solutions (**275** so far)
+- [ ] Solve 500 Hard problems across platforms (**374** so far)
 - [ ] Every platform folder at 100+ solutions (lowest: **GeeksforGeeks** with 77)
 - [ ] Practise on 9+ platforms by adding a HackerRank folder (**8** now)
 - [ ] Solve a Codeforces problem rated 3000+ (hardest so far: **2800**)
