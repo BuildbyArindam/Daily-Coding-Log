@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Daily%20Coding%20Log&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=One%20problem%20at%20a%20time.%20Every%20single%20day.&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C825+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
+<a href="https://github.com/BuildbyArindam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=1%2C826+solutions+committed+and+counting;8+platforms+%7C+Python+%7C+JavaScript+%7C+Java+%7C+SQL;Consistency+over+intensity+%F0%9F%9A%80"/></a>
 
-![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1825-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Solutions](https://img.shields.io/badge/Solutions%20Uploaded-1826-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-8-8957e5?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current%20Streak-21%20days-f78166?style=for-the-badge)
 ![Active](https://img.shields.io/badge/Active%20Days-102-3fb950?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard%20Solved-377-f85149?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard%20Solved-378-f85149?style=for-the-badge)
 
 <img src="https://img.shields.io/badge/Python-1529-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/C++-152-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-153-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-73-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 <img src="https://img.shields.io/badge/Java-32-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/SQL-39-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
@@ -24,7 +24,7 @@
 
 | 🧮 Solutions in repo | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active days | 🔥 Longest streak |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **1,825** | **747** | **645** | **377** | **102** | **81 days** |
+| **1,826** | **747** | **645** | **378** | **102** | **81 days** |
 
 > 📆 Logging window: **15 Aug 2026 → 25 Nov 2026** &nbsp;•&nbsp; Every file has a header with problem link, date, difficulty, topics, approach and complexity.
 
@@ -75,7 +75,7 @@ Daily-Coding-Log/
 └── DSA-Practice/
     ├── CodeChef/        # 520 solutions
     ├── HackerEarth/     # 372 solutions
-    ├── LeetCode/        # 278 solutions
+    ├── LeetCode/        # 279 solutions
     ├── Code360/         # 193 solutions
     ├── FreeCodeCamp/    # 184 solutions
     ├── Codeforces/      # 108 solutions
@@ -93,13 +93,13 @@ Daily-Coding-Log/
 |:--|--:|:--|--:|--:|--:|--:|--:|
 | [CodeChef](https://www.codechef.com/users/amahapatra2004) | **520** | `███░░░░░░░░░` 28% | 142 | 194 | 160 | 137 | 29 |
 | [HackerEarth](https://www.hackerearth.com/@mahapatraarindam4/) | **372** | `██░░░░░░░░░░` 20% | 154 | 223 | 121 | 15 | 13 |
-| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **278** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 111 | 0 |
+| [LeetCode](https://leetcode.com/u/0Arindam0_/) | **279** | `██░░░░░░░░░░` 15% | 1,599 | 76 | 91 | 112 | 0 |
 | [Code360](https://www.naukri.com/code360/profile/fd676eb2-50b1-413c-aeea-3e8ea44e0a46) | **193** | `█░░░░░░░░░░░` 11% | 111 | 89 | 70 | 34 | 0 |
 | [FreeCodeCamp](https://www.freecodecamp.org/fccdee8d2f5-58e1-4b09-9d09-2e7dafec471b) | **184** | `█░░░░░░░░░░░` 10% | 300 | 116 | 60 | 2 | 6 |
 | [Codeforces](https://codeforces.com/profile/mahapatraarindam4) | **108** | `█░░░░░░░░░░░` 6% | 217 | 19 | 50 | 35 | 4 |
 | [Unstop](https://unstop.com/u/arindmah7062) | **93** | `█░░░░░░░░░░░` 5% | 668 | 11 | 49 | 31 | 2 |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/subirouynn/) | **77** | `█░░░░░░░░░░░` 4% | 1,315 | 19 | 44 | 12 | 2 |
-| **Total** | **1,825** | | | **747** | **645** | **377** | **56** |
+| **Total** | **1,826** | | | **747** | **645** | **378** | **56** |
 
 _HackerRank (400 solved on the site) has no folder in this repo yet._
 
@@ -109,7 +109,7 @@ _HackerRank (400 solved on the site) has no folder in this repo yet._
 pie showData title Difficulty distribution (all platforms)
     "Easy" : 747
     "Medium" : 645
-    "Hard" : 377
+    "Hard" : 378
     "Unrated" : 56
 ```
 
@@ -124,7 +124,7 @@ pie showData title Difficulty distribution (all platforms)
 | Topic | Solutions | Distribution |
 |:--|--:|:--|
 | Implementation & Simulation | **558** | `████████████████████████` |
-| Arrays & Prefix Sums | **495** | `█████████████████████░░░` |
+| Arrays & Prefix Sums | **496** | `█████████████████████░░░` |
 | Math & Number Theory | **441** | `███████████████████░░░░░` |
 | Sorting & Searching | **381** | `████████████████░░░░░░░░` |
 | Hashing & Maps | **279** | `████████████░░░░░░░░░░░░` |
@@ -133,7 +133,7 @@ pie showData title Difficulty distribution (all platforms)
 | Trees | **218** | `█████████░░░░░░░░░░░░░░░` |
 | Stacks, Queues & Heaps | **186** | `████████░░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **184** | `████████░░░░░░░░░░░░░░░░` |
-| Graphs | **172** | `███████░░░░░░░░░░░░░░░░░` |
+| Graphs | **173** | `███████░░░░░░░░░░░░░░░░░` |
 | Two Pointers & Sliding Window | **141** | `██████░░░░░░░░░░░░░░░░░░` |
 | Recursion & Backtracking | **99** | `████░░░░░░░░░░░░░░░░░░░░` |
 | Design / OOP / SQL | **95** | `████░░░░░░░░░░░░░░░░░░░░` |
@@ -200,21 +200,21 @@ pie showData title Difficulty distribution (all platforms)
 | 2026-11-25 | LeetCode | 2577 Minimum Time to Visit a Cell In a Grid | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.cpp) |
 | 2026-11-25 | LeetCode | 2097 Valid Arrangement of Pairs | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/2097_Valid_Arrangement_of_Pairs.cpp) |
 | 2026-11-25 | LeetCode | 1675 Minimize Deviation in Array | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1675_Minimize_Deviation_in_Array.cpp) |
+| 2026-11-25 | LeetCode | 1368 Minimum Cost to Make at Least One Valid Path in a Grid | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.cpp) |
 | 2026-11-24 | Unstop | Whispers of the Camera Traps | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/Unstop/Whispers_of_the_Camera_Traps.py) |
 | 2026-11-24 | GeeksforGeeks | Two Pairs with Same Sum | 🟡 Medium | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/GeeksforGeeks/Two_Pairs_with_Same_Sum.py) |
 | 2026-11-24 | HackerEarth | Too Chocolatey | 🟢 Easy | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/HackerEarth/Too_Chocolatey.py) |
 | 2026-11-24 | LeetCode | 632 Smallest Range Covering Elements from K Lists | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/632_Smallest_Range_Covering_Elements_from_K_Lists.cpp) |
-| 2026-11-24 | LeetCode | 564 Find the Closest Palindrome | 🔴 Hard | [Code](https://github.com/BuildbyArindam/Daily-Coding-Log/blob/main/DSA-Practice/LeetCode/Hard/564_Find_the_Closest_Palindrome.cpp) |
 
 ---
 
 ## 🎯 Goals
 
 - [x] Reach 1,000 solutions in this repo
-- [ ] Reach 2,000 solutions in this repo (**1,825** so far)
+- [ ] Reach 2,000 solutions in this repo (**1,826** so far)
 - [ ] Reach 3,000 solutions in this repo
-- [ ] Upload 500 LeetCode solutions (**278** so far)
-- [ ] Solve 500 Hard problems across platforms (**377** so far)
+- [ ] Upload 500 LeetCode solutions (**279** so far)
+- [ ] Solve 500 Hard problems across platforms (**378** so far)
 - [ ] Every platform folder at 100+ solutions (lowest: **GeeksforGeeks** with 77)
 - [ ] Practise on 9+ platforms by adding a HackerRank folder (**8** now)
 - [ ] Solve a Codeforces problem rated 3000+ (hardest so far: **2800**)
